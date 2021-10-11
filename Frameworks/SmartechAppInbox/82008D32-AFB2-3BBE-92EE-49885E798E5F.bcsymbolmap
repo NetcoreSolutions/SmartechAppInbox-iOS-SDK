@@ -88,9 +88,9 @@ _OBJC_SELECTOR_REFERENCES_.135
 __OBJC_$_CLASS_METHODS_SMTAIMediaCacheManager
 __OBJC_METACLASS_RO_$_SMTAIMediaCacheManager
 __OBJC_CLASS_RO_$_SMTAIMediaCacheManager
-Apple clang version 12.0.5 (clang-1205.0.22.9)
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
-iPhoneOS14.5.sdk
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/MediaCache/SMTAIMediaCacheManager.m
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox
 SmartechAppInbox/MediaCache/SMTAIMediaCacheManager.m
@@ -228,6 +228,7 @@ __OBJC_CLASS_RO_$_SMTSimpleCell
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/Cells/SMTSimpleCell.m
 SmartechAppInbox/Views/Cells/SMTSimpleCell.m
 SmartechAppInbox/Views/Cells/SMTSimpleCell.h
+llvm.loop.mustprogress
 +[SMTAppInboxMessagePersistenceService updateAppInboxData:withCompletionHandler:]
 ___81+[SMTAppInboxMessagePersistenceService updateAppInboxData:withCompletionHandler:]_block_invoke
 +[SMTAppInboxMessagePersistenceService clearExpiredInboxMessages]
@@ -907,7 +908,7 @@ __OBJC_CLASS_RO_$_SMTAINetworkQueue
 SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkQueue.m
 SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkQueue.h
 __35+[SMTAINetworkQueue sharedInstance]_block_invoke
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/dispatch/once.h
 +[SMTAIBaseManagedObject fetchRequest]
 +[SMTAIBaseManagedObject fetchAllObjectsInContext:]
 ___Block_byref_object_copy_
@@ -2010,7 +2011,7 @@ __OBJC_CLASS_RO_$_SMTAppInboxCarouselView
 SmartechAppInbox/Views/CustomViews/SMTAppInboxCarouselView.m
 SmartechAppInbox/Views/CustomViews/SMTAppInboxCarouselView.h
 CGSizeMake
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
 __105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke.84
 __105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/NetworkLayer/Backend/SMTAIHTTPMethod.m

@@ -2,17 +2,17 @@ BCSymbolMap Version: 2.0
 +[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]
 ___90+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]_block_invoke
 ___90+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]_block_invoke_2
-___copy_helper_block_e4_20s28s32b
-___destroy_helper_block_e4_20s28s32s
-___copy_helper_block_e4_20s28b
-___destroy_helper_block_e4_20s28s
+___copy_helper_block_e8_32s48s56b
+___destroy_helper_block_e8_32s48s56s
+___copy_helper_block_e8_32s48b
+___destroy_helper_block_e8_32s48s
 +[SMTAIMediaCacheManager downloadAndSaveCarouselMediaForInboxMessage:atCarouselIndex:withCarouselImageURLString:downloadQueue:andCompletion:]
 ___141+[SMTAIMediaCacheManager downloadAndSaveCarouselMediaForInboxMessage:atCarouselIndex:withCarouselImageURLString:downloadQueue:andCompletion:]_block_invoke
 ___141+[SMTAIMediaCacheManager downloadAndSaveCarouselMediaForInboxMessage:atCarouselIndex:withCarouselImageURLString:downloadQueue:andCompletion:]_block_invoke_2
-___copy_helper_block_e4_20s24s28s32b
-___destroy_helper_block_e4_20s24s28s32s
-___copy_helper_block_e4_20s24s28b
-___destroy_helper_block_e4_20s24s28s
+___copy_helper_block_e8_32s40s48s56b
+___destroy_helper_block_e8_32s40s48s56s
+___copy_helper_block_e8_32s40s48b
+___destroy_helper_block_e8_32s40s48s
 +[SMTAIMediaCacheManager appInboxCurrentCacheSize]
 +[SMTAIMediaCacheManager isFreeCacheAvailableForSize:]
 +[SMTAIMediaCacheManager clearCacheFilesOlderThanSeconds:]
@@ -36,14 +36,14 @@ _OBJC_CLASSLIST_REFERENCES_$_.23
 _OBJC_SELECTOR_REFERENCES_.27
 _OBJC_SELECTOR_REFERENCES_.29
 _OBJC_SELECTOR_REFERENCES_.37
-___block_descriptor_36_e4_20s28s32bs_e5_v4?0l
-___block_descriptor_32_e4_20s28bs_e33_v8?0"UNNotificationAttachment"4l
+___block_descriptor_64_e8_32s48s56bs_e5_v8?0l
+___block_descriptor_56_e8_32s48bs_e34_v16?0"UNNotificationAttachment"8l
 _OBJC_SELECTOR_REFERENCES_.42
 _OBJC_CLASSLIST_REFERENCES_$_.43
 _OBJC_SELECTOR_REFERENCES_.47
 _OBJC_SELECTOR_REFERENCES_.49
-___block_descriptor_40_e4_20s24s28s32bs_e5_v4?0l
-___block_descriptor_36_e4_20s24s28bs_e33_v8?0"UNNotificationAttachment"4l
+___block_descriptor_72_e8_32s40s48s56bs_e5_v8?0l
+___block_descriptor_64_e8_32s40s48bs_e34_v16?0"UNNotificationAttachment"8l
 _OBJC_CLASSLIST_REFERENCES_$_.50
 _OBJC_SELECTOR_REFERENCES_.52
 _OBJC_SELECTOR_REFERENCES_.54
@@ -75,7 +75,7 @@ _OBJC_SELECTOR_REFERENCES_.106
 _OBJC_SELECTOR_REFERENCES_.108
 _OBJC_SELECTOR_REFERENCES_.110
 _OBJC_SELECTOR_REFERENCES_.112
-___block_descriptor_21_e24_i12?0"NSURL"4"NSURL"8l
+___block_descriptor_33_e25_q24?0"NSURL"8"NSURL"16l
 _OBJC_SELECTOR_REFERENCES_.116
 _OBJC_SELECTOR_REFERENCES_.118
 _OBJC_CLASSLIST_REFERENCES_$_.119
@@ -88,23 +88,23 @@ _OBJC_SELECTOR_REFERENCES_.135
 __OBJC_$_CLASS_METHODS_SMTAIMediaCacheManager
 __OBJC_METACLASS_RO_$_SMTAIMediaCacheManager
 __OBJC_CLASS_RO_$_SMTAIMediaCacheManager
-Apple clang version 12.0.5 (clang-1205.0.22.9)
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
-iPhoneOS14.5.sdk
+Apple clang version 13.0.0 (clang-1300.0.29.3)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
+iPhoneOS15.0.sdk
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/MediaCache/SMTAIMediaCacheManager.m
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox
 SmartechAppInbox/MediaCache/SMTAIMediaCacheManager.m
 __49+[SMTAIMediaCacheManager clearMediaCacheForSize:]_block_invoke
-__destroy_helper_block_e4_20s24s28s
-__copy_helper_block_e4_20s24s28b
-__destroy_helper_block_e4_20s24s28s32s
-__copy_helper_block_e4_20s24s28s32b
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48b
+__destroy_helper_block_e8_32s40s48s56s
+__copy_helper_block_e8_32s40s48s56b
 __141+[SMTAIMediaCacheManager downloadAndSaveCarouselMediaForInboxMessage:atCarouselIndex:withCarouselImageURLString:downloadQueue:andCompletion:]_block_invoke_2
 __141+[SMTAIMediaCacheManager downloadAndSaveCarouselMediaForInboxMessage:atCarouselIndex:withCarouselImageURLString:downloadQueue:andCompletion:]_block_invoke
-__destroy_helper_block_e4_20s28s
-__copy_helper_block_e4_20s28b
-__destroy_helper_block_e4_20s28s32s
-__copy_helper_block_e4_20s28s32b
+__destroy_helper_block_e8_32s48s
+__copy_helper_block_e8_32s48b
+__destroy_helper_block_e8_32s48s56s
+__copy_helper_block_e8_32s48s56b
 __90+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]_block_invoke_2
 __90+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]_block_invoke
 __OBJC_METACLASS_RO_$_SMTAIConstants
@@ -228,18 +228,19 @@ __OBJC_CLASS_RO_$_SMTSimpleCell
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/Cells/SMTSimpleCell.m
 SmartechAppInbox/Views/Cells/SMTSimpleCell.m
 SmartechAppInbox/Views/Cells/SMTSimpleCell.h
+llvm.loop.mustprogress
 +[SMTAppInboxMessagePersistenceService updateAppInboxData:withCompletionHandler:]
 ___81+[SMTAppInboxMessagePersistenceService updateAppInboxData:withCompletionHandler:]_block_invoke
 +[SMTAppInboxMessagePersistenceService clearExpiredInboxMessages]
 ___65+[SMTAppInboxMessagePersistenceService clearExpiredInboxMessages]_block_invoke
-___copy_helper_block_e4_
-___destroy_helper_block_e4_
+___copy_helper_block_e8_
+___destroy_helper_block_e8_
 +[SMTAppInboxMessagePersistenceService clearInboxMessagesOlderThanInterval:]
 ___76+[SMTAppInboxMessagePersistenceService clearInboxMessagesOlderThanInterval:]_block_invoke
 +[SMTAppInboxMessagePersistenceService fetchAllInboxMessagesWithCompletionHandler:]
 ___83+[SMTAppInboxMessagePersistenceService fetchAllInboxMessagesWithCompletionHandler:]_block_invoke
-___copy_helper_block_e4_20b
-___destroy_helper_block_e4_20s
+___copy_helper_block_e8_32b
+___destroy_helper_block_e8_32s
 +[SMTAppInboxMessagePersistenceService isDataEmptyWithContext:]
 +[SMTAppInboxMessagePersistenceService getInboxMessageForId:withContext:]
 +[SMTAppInboxMessagePersistenceService updateInboxMessageEntity:fromModel:]
@@ -266,17 +267,17 @@ _OBJC_SELECTOR_REFERENCES_.5
 _OBJC_SELECTOR_REFERENCES_.9
 _OBJC_SELECTOR_REFERENCES_.11
 _OBJC_CLASSLIST_REFERENCES_$_.14
-___block_descriptor_32_e4_20s28bs_e31_v8?0"NSManagedObjectContext"4l
+___block_descriptor_56_e8_32s48bs_e32_v16?0"NSManagedObjectContext"8l
 _OBJC_SELECTOR_REFERENCES_.19
 _OBJC_SELECTOR_REFERENCES_.21
-___block_descriptor_24_e4__e31_v8?0"NSManagedObjectContext"4l
+___block_descriptor_40_e8__e32_v16?0"NSManagedObjectContext"8l
 _OBJC_SELECTOR_REFERENCES_.25
 _OBJC_CLASSLIST_REFERENCES_$_.28
 _OBJC_CLASSLIST_REFERENCES_$_.33
 _OBJC_SELECTOR_REFERENCES_.35
-___block_descriptor_32_e31_v8?0"NSManagedObjectContext"4l
+___block_descriptor_40_e32_v16?0"NSManagedObjectContext"8l
 _OBJC_SELECTOR_REFERENCES_.38
-___block_descriptor_24_e4_20bs_e31_v8?0"NSManagedObjectContext"4l
+___block_descriptor_40_e8_32bs_e32_v16?0"NSManagedObjectContext"8l
 _OBJC_SELECTOR_REFERENCES_.40
 _OBJC_SELECTOR_REFERENCES_.44
 _OBJC_SELECTOR_REFERENCES_.46
@@ -323,12 +324,12 @@ __OBJC_CLASS_RO_$_SMTAppInboxMessagePersistenceService
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/DatabaseLayer/Services/SMTAppInboxMessagePersistenceService.m
 SmartechAppInbox/DatabaseLayer/Services/SMTAppInboxMessagePersistenceService.m
 __87+[SMTAppInboxMessagePersistenceService updateNotificationStatus:withCompletionHandler:]_block_invoke
-__destroy_helper_block_e4_20s
-__copy_helper_block_e4_20b
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32b
 __83+[SMTAppInboxMessagePersistenceService fetchAllInboxMessagesWithCompletionHandler:]_block_invoke
 __76+[SMTAppInboxMessagePersistenceService clearInboxMessagesOlderThanInterval:]_block_invoke
-__destroy_helper_block_e4_
-__copy_helper_block_e4_
+__destroy_helper_block_e8_
+__copy_helper_block_e8_
 __65+[SMTAppInboxMessagePersistenceService clearExpiredInboxMessages]_block_invoke
 __81+[SMTAppInboxMessagePersistenceService updateAppInboxData:withCompletionHandler:]_block_invoke
 +[SMTAppInboxParser isNotificationFromSmartech:]
@@ -653,7 +654,7 @@ SmartechAppInbox/Models/SMTAppInboxMessageModel.h
 -[SMTAINetworkService init]
 -[SMTAINetworkService makeDataRequestFor:method:URLParams:bodyParams:headers:success:failure:]
 ___94-[SMTAINetworkService makeDataRequestFor:method:URLParams:bodyParams:headers:success:failure:]_block_invoke
-___copy_helper_block_e4_20s24b28b
+___copy_helper_block_e8_32s40b48b
 -[SMTAINetworkService makeDownloadRequestFor:success:failure:]
 ___62-[SMTAINetworkService makeDownloadRequestFor:success:failure:]_block_invoke
 -[SMTAINetworkService cancel]
@@ -665,9 +666,9 @@ ___62-[SMTAINetworkService makeDownloadRequestFor:success:failure:]_block_invoke
 -[SMTAINetworkService setDownloadTask:]
 -[SMTAINetworkService .cxx_destruct]
 _OBJC_CLASSLIST_REFERENCES_$_.9
-___block_descriptor_32_e4_20s24bs28bs_e45_v16?0"NSData"4"NSURLResponse"8"NSError"12l
+___block_descriptor_56_e8_32s40bs48bs_e46_v32?0"NSData"8"NSURLResponse"16"NSError"24l
 _OBJC_CLASSLIST_REFERENCES_$_.31
-___block_descriptor_32_e4_20s24bs28bs_e44_v16?0"NSURL"4"NSURLResponse"8"NSError"12l
+___block_descriptor_56_e8_32s40bs48bs_e45_v32?0"NSURL"8"NSURLResponse"16"NSError"24l
 _OBJC_CLASSLIST_REFERENCES_$_.46
 _OBJC_CLASSLIST_REFERENCES_$_.49
 _OBJC_CLASSLIST_REFERENCES_$_.55
@@ -681,7 +682,7 @@ __OBJC_CLASS_RO_$_SMTAINetworkService
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkService.m
 SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkService.m
 __62-[SMTAINetworkService makeDownloadRequestFor:success:failure:]_block_invoke
-__copy_helper_block_e4_20s24b28b
+__copy_helper_block_e8_32s40b48b
 __94-[SMTAINetworkService makeDataRequestFor:method:URLParams:bodyParams:headers:success:failure:]_block_invoke
 +[SMTAIAPIManager fetchAppInboxMessagesWithFilter:andCompletion:]
 +[SMTAIAPIManager retrieveMediaLocationWithURLString:downloadQueue:andCompletion:]
@@ -719,8 +720,8 @@ SmartechAppInbox/Views/Cells/SMTPlayableCell.h
 -[SMTImageCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]
 ___81-[SMTImageCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 ___81-[SMTImageCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2
-___copy_helper_block_e4_20s24s28s32s
-___copy_helper_block_e4_20s24s28s
+___copy_helper_block_e8_32s40s48s56s
+___copy_helper_block_e8_32s40s48s
 -[SMTImageCell setAppInboxImageViewFromPath:]
 -[SMTImageCell simpleImageView]
 -[SMTImageCell setSimpleImageView:]
@@ -728,8 +729,8 @@ ___copy_helper_block_e4_20s24s28s
 -[SMTImageCell setActivityIndicator:]
 -[SMTImageCell .cxx_destruct]
 _OBJC_CLASSLIST_REFERENCES_$_.35
-___block_descriptor_36_e4_20s24s28s32s_e5_v4?0l
-___block_descriptor_32_e4_20s24s28s_e33_v8?0"UNNotificationAttachment"4l
+___block_descriptor_64_e8_32s40s48s56s_e5_v8?0l
+___block_descriptor_56_e8_32s40s48s_e34_v16?0"UNNotificationAttachment"8l
 _OBJC_CLASSLIST_REFERENCES_$_.56
 _OBJC_IVAR_$_SMTImageCell._simpleImageView
 _OBJC_IVAR_$_SMTImageCell._activityIndicator
@@ -741,8 +742,8 @@ __OBJC_CLASS_RO_$_SMTImageCell
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/Cells/SMTImageCell.m
 SmartechAppInbox/Views/Cells/SMTImageCell.m
 SmartechAppInbox/Views/Cells/SMTImageCell.h
-__copy_helper_block_e4_20s24s28s
-__copy_helper_block_e4_20s24s28s32s
+__copy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48s56s
 __81-[SMTImageCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2
 __81-[SMTImageCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 -[SMTAppInboxCategoryModel categoryName]
@@ -847,8 +848,8 @@ AppInboxEventStatusString
 -[SMTAppInboxCarouselCollectionViewCell setImageViewWithCarousel:atIndex:forInboxEvent:downloadQueue:andPlaceholderImageName:]
 ___126-[SMTAppInboxCarouselCollectionViewCell setImageViewWithCarousel:atIndex:forInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 ___126-[SMTAppInboxCarouselCollectionViewCell setImageViewWithCarousel:atIndex:forInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2
-___copy_helper_block_e4_20s24s28s32s36s
-___destroy_helper_block_e4_20s24s28s32s36s
+___copy_helper_block_e8_32s40s48s56s64s
+___destroy_helper_block_e8_32s40s48s56s64s
 -[SMTAppInboxCarouselCollectionViewCell displayCarouselContentWithImage:]
 -[SMTAppInboxCarouselCollectionViewCell getImageFromURL:]
 -[SMTAppInboxCarouselCollectionViewCell getPlaceholderImageWithImageName:]
@@ -865,8 +866,8 @@ ___destroy_helper_block_e4_20s24s28s32s36s
 _OBJC_CLASSLIST_REFERENCES_$_.21
 _OBJC_SELECTOR_REFERENCES_.33
 _OBJC_CLASSLIST_REFERENCES_$_.34
-___block_descriptor_44_e4_20s24s28s32s36s_e5_v4?0l
-___block_descriptor_40_e4_20s24s28s32s_e33_v8?0"UNNotificationAttachment"4l
+___block_descriptor_80_e8_32s40s48s56s64s_e5_v8?0l
+___block_descriptor_72_e8_32s40s48s56s_e34_v16?0"UNNotificationAttachment"8l
 _OBJC_CLASSLIST_REFERENCES_$_.72
 _OBJC_CLASSLIST_REFERENCES_$_.73
 _OBJC_IVAR_$_SMTAppInboxCarouselCollectionViewCell._carouselMessage
@@ -881,8 +882,8 @@ __OBJC_CLASS_RO_$_SMTAppInboxCarouselCollectionViewCell
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/Cells/SMTAppInboxCarouselCollectionViewCell.m
 SmartechAppInbox/Views/Cells/SMTAppInboxCarouselCollectionViewCell.m
 SmartechAppInbox/Views/Cells/SMTAppInboxCarouselCollectionViewCell.h
-__destroy_helper_block_e4_20s24s28s32s36s
-__copy_helper_block_e4_20s24s28s32s36s
+__destroy_helper_block_e8_32s40s48s56s64s
+__copy_helper_block_e8_32s40s48s56s64s
 __126-[SMTAppInboxCarouselCollectionViewCell setImageViewWithCarousel:atIndex:forInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2
 __126-[SMTAppInboxCarouselCollectionViewCell setImageViewWithCarousel:atIndex:forInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 +[SMTAINetworkQueue sharedInstance]
@@ -894,7 +895,7 @@ ___35+[SMTAINetworkQueue sharedInstance]_block_invoke
 -[SMTAINetworkQueue .cxx_destruct]
 _sharedInstance.sharedInstance
 _sharedInstance.onceToken
-___block_descriptor_20_e5_v4?0l
+___block_descriptor_32_e5_v8?0l
 ___block_literal_global
 __OBJC_$_CLASS_METHODS_SMTAINetworkQueue
 __OBJC_METACLASS_RO_$_SMTAINetworkQueue
@@ -907,55 +908,55 @@ __OBJC_CLASS_RO_$_SMTAINetworkQueue
 SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkQueue.m
 SmartechAppInbox/NetworkLayer/CoreNetwork/SMTAINetworkQueue.h
 __35+[SMTAINetworkQueue sharedInstance]_block_invoke
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk/usr/include/dispatch/once.h
 +[SMTAIBaseManagedObject fetchRequest]
 +[SMTAIBaseManagedObject fetchAllObjectsInContext:]
 ___Block_byref_object_copy_
 ___Block_byref_object_dispose_
 ___51+[SMTAIBaseManagedObject fetchAllObjectsInContext:]_block_invoke
-___copy_helper_block_e4_20s24s28r32r
-___destroy_helper_block_e4_20s24s28r32r
+___copy_helper_block_e8_32s40s48r56r
+___destroy_helper_block_e8_32s40s48r56r
 +[SMTAIBaseManagedObject fetchAllObjectByProperty:inContext:]
 ___61+[SMTAIBaseManagedObject fetchAllObjectByProperty:inContext:]_block_invoke
 +[SMTAIBaseManagedObject fetchAllObjectsWithSortDescriptor:inContext:]
 ___70+[SMTAIBaseManagedObject fetchAllObjectsWithSortDescriptor:inContext:]_block_invoke
 +[SMTAIBaseManagedObject findObjectsWithPredictate:sortDescriptor:inContext:]
 ___77+[SMTAIBaseManagedObject findObjectsWithPredictate:sortDescriptor:inContext:]_block_invoke
-___copy_helper_block_e4_20s24s32r36r
-___destroy_helper_block_e4_20s24s32r36r
+___copy_helper_block_e8_32s40s56r64r
+___destroy_helper_block_e8_32s40s56r64r
 +[SMTAIBaseManagedObject findObjectsWithPredictate:inContext:]
 ___62+[SMTAIBaseManagedObject findObjectsWithPredictate:inContext:]_block_invoke
 +[SMTAIBaseManagedObject findObjectsWithPredictate:withLimit:inContext:]
 ___72+[SMTAIBaseManagedObject findObjectsWithPredictate:withLimit:inContext:]_block_invoke
 +[SMTAIBaseManagedObject insertNewObjectForEntityWithManagedContext:]
 ___69+[SMTAIBaseManagedObject insertNewObjectForEntityWithManagedContext:]_block_invoke
-___copy_helper_block_e4_24s28r
-___destroy_helper_block_e4_24s28r
+___copy_helper_block_e8_40s48r
+___destroy_helper_block_e8_40s48r
 +[SMTAIBaseManagedObject batchDeleteRequestWithPredictate:inContext:]
 ___69+[SMTAIBaseManagedObject batchDeleteRequestWithPredictate:inContext:]_block_invoke
-___copy_helper_block_e4_20s24s28r
-___destroy_helper_block_e4_20s24s28r
+___copy_helper_block_e8_32s40s48r
+___destroy_helper_block_e8_32s40s48r
 +[SMTAIBaseManagedObject batchUpdateRequestForProperties:withPredictate:inContext:]
 ___83+[SMTAIBaseManagedObject batchUpdateRequestForProperties:withPredictate:inContext:]_block_invoke
 +[SMTAIBaseManagedObject countForObjectsWithPredictate:sortDescriptor:inContext:]
 ___81+[SMTAIBaseManagedObject countForObjectsWithPredictate:sortDescriptor:inContext:]_block_invoke
 -[SMTAIBaseManagedObject save]
 ___30-[SMTAIBaseManagedObject save]_block_invoke
-___copy_helper_block_e4_20s24r
-___destroy_helper_block_e4_20s24r
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
 +[SMTAIBaseManagedObject findObjectsWithDistinct:inContext:]
 ___60+[SMTAIBaseManagedObject findObjectsWithDistinct:inContext:]_block_invoke
-___block_descriptor_36_e4_20s24s28r32r_e5_v4?0l
+___block_descriptor_64_e8_32s40s48r56r_e5_v8?0l
 _OBJC_CLASSLIST_REFERENCES_$_.10
 _OBJC_CLASSLIST_REFERENCES_$_.24
-___block_descriptor_40_e4_20s24s32r36r_e5_v4?0l
+___block_descriptor_72_e8_32s40s56r64r_e5_v8?0l
 _OBJC_CLASSLIST_REFERENCES_$_.39
-___block_descriptor_32_e4_24s28r_e5_v4?0l
+___block_descriptor_56_e8_40s48r_e5_v8?0l
 _OBJC_CLASSLIST_REFERENCES_$_.51
 _OBJC_SELECTOR_REFERENCES_.53
-___block_descriptor_32_e4_20s24s28r_e5_v4?0l
+___block_descriptor_56_e8_32s40s48r_e5_v8?0l
 _OBJC_SELECTOR_REFERENCES_.66
-___block_descriptor_28_e4_20s24r_e5_v4?0l
+___block_descriptor_48_e8_32s40r_e5_v8?0l
 __OBJC_$_CLASS_METHODS_SMTAIBaseManagedObject
 __OBJC_METACLASS_RO_$_SMTAIBaseManagedObject
 __OBJC_$_INSTANCE_METHODS_SMTAIBaseManagedObject
@@ -963,26 +964,26 @@ __OBJC_CLASS_RO_$_SMTAIBaseManagedObject
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/DatabaseLayer/Entity/SMTAIBaseManagedObject.m
 __60+[SMTAIBaseManagedObject findObjectsWithDistinct:inContext:]_block_invoke
 SmartechAppInbox/DatabaseLayer/Entity/SMTAIBaseManagedObject.m
-__destroy_helper_block_e4_20s24r
-__copy_helper_block_e4_20s24r
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
 __30-[SMTAIBaseManagedObject save]_block_invoke
 __81+[SMTAIBaseManagedObject countForObjectsWithPredictate:sortDescriptor:inContext:]_block_invoke
 __83+[SMTAIBaseManagedObject batchUpdateRequestForProperties:withPredictate:inContext:]_block_invoke
-__destroy_helper_block_e4_20s24s28r
-__copy_helper_block_e4_20s24s28r
+__destroy_helper_block_e8_32s40s48r
+__copy_helper_block_e8_32s40s48r
 __69+[SMTAIBaseManagedObject batchDeleteRequestWithPredictate:inContext:]_block_invoke
-__destroy_helper_block_e4_24s28r
-__copy_helper_block_e4_24s28r
+__destroy_helper_block_e8_40s48r
+__copy_helper_block_e8_40s48r
 __69+[SMTAIBaseManagedObject insertNewObjectForEntityWithManagedContext:]_block_invoke
 __72+[SMTAIBaseManagedObject findObjectsWithPredictate:withLimit:inContext:]_block_invoke
 __62+[SMTAIBaseManagedObject findObjectsWithPredictate:inContext:]_block_invoke
-__destroy_helper_block_e4_20s24s32r36r
-__copy_helper_block_e4_20s24s32r36r
+__destroy_helper_block_e8_32s40s56r64r
+__copy_helper_block_e8_32s40s56r64r
 __77+[SMTAIBaseManagedObject findObjectsWithPredictate:sortDescriptor:inContext:]_block_invoke
 __70+[SMTAIBaseManagedObject fetchAllObjectsWithSortDescriptor:inContext:]_block_invoke
 __61+[SMTAIBaseManagedObject fetchAllObjectByProperty:inContext:]_block_invoke
-__destroy_helper_block_e4_20s24s28r32r
-__copy_helper_block_e4_20s24s28r32r
+__destroy_helper_block_e8_32s40s48r56r
+__copy_helper_block_e8_32s40s48r56r
 __51+[SMTAIBaseManagedObject fetchAllObjectsInContext:]_block_invoke
 __Block_byref_object_dispose_
 __Block_byref_object_copy_
@@ -997,7 +998,7 @@ __Block_byref_object_copy_
 -[SMTAppInboxViewController setupTableView]
 -[SMTAppInboxViewController pullToRefresh]
 ___42-[SMTAppInboxViewController pullToRefresh]_block_invoke
-___copy_helper_block_e4_20s
+___copy_helper_block_e8_32s
 -[SMTAppInboxViewController updateNotificationsCount:]
 -[SMTAppInboxViewController refreshInboxDataSourceWithCategory]
 ___63-[SMTAppInboxViewController refreshInboxDataSourceWithCategory]_block_invoke
@@ -1014,8 +1015,8 @@ ___63-[SMTAppInboxViewController refreshInboxDataSourceWithCategory]_block_invok
 -[SMTAppInboxViewController tableView:commitEditingStyle:forRowAtIndexPath:]
 ___76-[SMTAppInboxViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke
 ___76-[SMTAppInboxViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke_2
-___copy_helper_block_e4_20s24s
-___destroy_helper_block_e4_20s24s
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
 -[SMTAppInboxViewController tableView:viewForFooterInSection:]
 -[SMTAppInboxViewController tableView:heightForFooterInSection:]
 -[SMTAppInboxViewController tableView:heightForHeaderInSection:]
@@ -1080,8 +1081,8 @@ _OBJC_IVAR_$_SMTAppInboxViewController._didViewLoaded
 _OBJC_CLASSLIST_REFERENCES_$_.77
 _OBJC_SELECTOR_REFERENCES_.98
 _OBJC_CLASSLIST_REFERENCES_$_.99
-___block_descriptor_24_e4_20s_e19_v12?0"NSError"4c8l
-___block_descriptor_24_e4_20s_e5_v4?0l
+___block_descriptor_40_e8_32s_e20_v20?0"NSError"8B16l
+___block_descriptor_40_e8_32s_e5_v8?0l
 _OBJC_CLASSLIST_REFERENCES_$_.116
 _OBJC_SELECTOR_REFERENCES_.133
 _OBJC_SELECTOR_REFERENCES_.147
@@ -1104,7 +1105,7 @@ _OBJC_CLASSLIST_REFERENCES_$_.187
 _OBJC_SELECTOR_REFERENCES_.191
 _OBJC_SELECTOR_REFERENCES_.195
 _OBJC_SELECTOR_REFERENCES_.197
-___block_descriptor_28_e4_20s24s_e19_v12?0"NSError"4c8l
+___block_descriptor_48_e8_32s40s_e20_v20?0"NSError"8B16l
 _OBJC_SELECTOR_REFERENCES_.199
 _OBJC_SELECTOR_REFERENCES_.203
 _OBJC_SELECTOR_REFERENCES_.205
@@ -1233,13 +1234,13 @@ __OBJC_CLASS_RO_$_SMTAppInboxViewController
 SmartechAppInbox/Controllers/SMTAppInboxViewController.m
 SmartechAppInbox/Controllers/SMTAppInboxViewController.h
 __46-[SMTAppInboxViewController fetchEarliestData]_block_invoke
-__destroy_helper_block_e4_20s24s
-__copy_helper_block_e4_20s24s
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
 __76-[SMTAppInboxViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke_2
 __76-[SMTAppInboxViewController tableView:commitEditingStyle:forRowAtIndexPath:]_block_invoke
 __63-[SMTAppInboxViewController refreshInboxDataSourceWithCategory]_block_invoke.127
 __63-[SMTAppInboxViewController refreshInboxDataSourceWithCategory]_block_invoke
-__copy_helper_block_e4_20s
+__copy_helper_block_e8_32s
 __42-[SMTAppInboxViewController pullToRefresh]_block_invoke
 +[SMTAILogger setDebugLevel:]
 +[SMTAILogger getDebugLevel]
@@ -1258,9 +1259,9 @@ ___37+[SMTAIDataController sharedInstance]_block_invoke
 -[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]
 ___60-[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]_block_invoke
 ___60-[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]_block_invoke_2
-___copy_helper_block_e4_20b24s
-___copy_helper_block_e4_20s24b28w
-___destroy_helper_block_e4_20s24s28w
+___copy_helper_block_e8_32b40s
+___copy_helper_block_e8_32s40b48w
+___destroy_helper_block_e8_32s40s48w
 -[SMTAIDataController loadStoreAtPath:withCompletionHandler:]
 ___61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke
 ___61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke_2
@@ -1279,10 +1280,10 @@ ___61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke_
 -[SMTAIDataController .cxx_destruct]
 _sharedAIDataInstance
 _OBJC_CLASSLIST_REFERENCES_$_.36
-___block_descriptor_28_e4_20bs24s_e5_v4?0l
-___block_descriptor_32_e4_20s24bs28w_e49_v12?0"NSPersistentStoreDescription"4"NSError"8l
+___block_descriptor_48_e8_32bs40s_e5_v8?0l
+___block_descriptor_56_e8_32s40bs48w_e50_v24?0"NSPersistentStoreDescription"8"NSError"16l
 _OBJC_CLASSLIST_REFERENCES_$_.74
-___block_descriptor_32_e4_20s24s28bs_e5_v4?0l
+___block_descriptor_56_e8_32s40s48bs_e5_v8?0l
 __OBJC_$_CLASS_METHODS_SMTAIDataController
 __OBJC_METACLASS_RO_$_SMTAIDataController
 __OBJC_$_INSTANCE_METHODS_SMTAIDataController
@@ -1299,9 +1300,9 @@ SmartechAppInbox/DatabaseLayer/DataController/SMTAIDataController.h
 __61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke_3
 __61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke_2
 __61-[SMTAIDataController loadStoreAtPath:withCompletionHandler:]_block_invoke
-__destroy_helper_block_e4_20s24s28w
-__copy_helper_block_e4_20s24b28w
-__copy_helper_block_e4_20b24s
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32s40b48w
+__copy_helper_block_e8_32b40s
 __60-[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]_block_invoke_2
 __60-[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]_block_invoke
 __37+[SMTAIDataController sharedInstance]_block_invoke
@@ -1319,8 +1320,8 @@ ___81-[SMTAudioCell setAudioViewWithInboxEvent:downloadQueue:andPlaceholderImage
 -[SMTAudioCell playAction:]
 -[SMTAudioCell addAudioObserver]
 ___32-[SMTAudioCell addAudioObserver]_block_invoke
-___copy_helper_block_e4_20w
-___destroy_helper_block_e4_20w
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
 -[SMTAudioCell removeAudioObserver]
 -[SMTAudioCell setPlayButtonBackgroundImageWithName:]
 -[SMTAudioCell formatSecondvalue:]
@@ -1348,7 +1349,7 @@ _OBJC_CLASSLIST_REFERENCES_$_.61
 _OBJC_CLASSLIST_REFERENCES_$_.78
 _OBJC_CLASSLIST_REFERENCES_$_.85
 _OBJC_IVAR_$_SMTAudioCell._playerView
-___block_descriptor_24_e4_20w_e15_v28?0{?=qiIq}4l
+___block_descriptor_40_e8_32w_e15_v32?0{?=qiIq}8l
 _OBJC_IVAR_$_SMTAudioCell._remaningDuration
 _OBJC_IVAR_$_SMTAudioCell._playButton
 _OBJC_IVAR_$_SMTAudioCell._slider
@@ -1365,8 +1366,8 @@ __OBJC_CLASS_RO_$_SMTAudioCell
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/Cells/SMTAudioCell.m
 SmartechAppInbox/Views/Cells/SMTAudioCell.m
 SmartechAppInbox/Views/Cells/SMTAudioCell.h
-__destroy_helper_block_e4_20w
-__copy_helper_block_e4_20w
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
 __32-[SMTAudioCell addAudioObserver]_block_invoke
 __81-[SMTAudioCell setAudioViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2
 __81-[SMTAudioCell setAudioViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
@@ -1465,7 +1466,7 @@ ___61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke_
 ___40-[SmartechAppInbox markMessageAsViewed:]_block_invoke
 -[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]
 ___65-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]_block_invoke
-___copy_helper_block_e4_20s24b
+___copy_helper_block_e8_32s40b
 -[SmartechAppInbox markMessageAsClicked:withDeeplink:]
 ___54-[SmartechAppInbox markMessageAsClicked:withDeeplink:]_block_invoke
 -[SmartechAppInbox getAppInboxMessages:]
@@ -1478,19 +1479,19 @@ _OBJC_CLASSLIST_REFERENCES_$_.3
 _OBJC_CLASSLIST_REFERENCES_$_.12
 _OBJC_CLASSLIST_REFERENCES_$_.25
 _OBJC_CLASSLIST_REFERENCES_$_.40
-___block_descriptor_20_e31_v8?0"NSManagedObjectContext"4l
+___block_descriptor_32_e32_v16?0"NSManagedObjectContext"8l
 ___block_literal_global.54
-___block_descriptor_24_e4_20s_e16_v8?0"NSError"4l
+___block_descriptor_40_e8_32s_e17_v16?0"NSError"8l
 _OBJC_CLASSLIST_REFERENCES_$_.69
-___block_descriptor_24_e4_20s_e36_v12?0"SMTAppInboxData"4"NSError"8l
-___block_descriptor_24_e4_20bs_e19_v12?0"NSError"4c8l
-___block_descriptor_24_e4_20bs_e36_v12?0"SMTAppInboxData"4"NSError"8l
+___block_descriptor_40_e8_32s_e37_v24?0"SMTAppInboxData"8"NSError"16l
+___block_descriptor_40_e8_32bs_e20_v20?0"NSError"8B16l
+___block_descriptor_40_e8_32bs_e37_v24?0"SMTAppInboxData"8"NSError"16l
 _OBJC_CLASSLIST_REFERENCES_$_.88
 _OBJC_SELECTOR_REFERENCES_.102
 _OBJC_SELECTOR_REFERENCES_.104
 _OBJC_CLASSLIST_REFERENCES_$_.107
-___block_descriptor_28_e4_20s24bs_e19_v12?0"NSError"4c8l
-___block_descriptor_20_e37_v16?0"NSString"4c8"NSDictionary"12l
+___block_descriptor_48_e8_32s40bs_e20_v20?0"NSError"8B16l
+___block_descriptor_32_e38_v28?0"NSString"8B16"NSDictionary"20l
 ___block_literal_global.120
 __OBJC_$_CLASS_METHODS_SmartechAppInbox
 __OBJC_METACLASS_RO_$_SmartechAppInbox
@@ -1502,7 +1503,7 @@ __OBJC_CLASS_RO_$_SmartechAppInbox
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/SmartechAppInbox.m
 SmartechAppInbox/SmartechAppInbox.m
 __54-[SmartechAppInbox markMessageAsClicked:withDeeplink:]_block_invoke
-__copy_helper_block_e4_20s24b
+__copy_helper_block_e8_32s40b
 __65-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]_block_invoke
 __40-[SmartechAppInbox markMessageAsViewed:]_block_invoke
 __61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke_2
@@ -1612,18 +1613,18 @@ SmartechAppInbox/NetworkLayer/Request/SMTAIAppInboxRequest.m
 +[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]
 ___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke
 ___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke_2
-___copy_helper_block_e4_20b28s
+___copy_helper_block_e8_32b48s
 +[SMTAIMediaDownloader savetheMediaFileWithURL:location:andCompletion:]
 +[SMTAIMediaDownloader removeQueryParametersFromUrl:]
-___block_descriptor_24_e4_20bs_e33_v8?0"UNNotificationAttachment"4l
-___block_descriptor_32_e4_20bs28s_e26_v12?0"NSURL"4"NSError"8l
+___block_descriptor_40_e8_32bs_e34_v16?0"UNNotificationAttachment"8l
+___block_descriptor_56_e8_32bs48s_e27_v24?0"NSURL"8"NSError"16l
 _OBJC_CLASSLIST_REFERENCES_$_.45
 __OBJC_$_CLASS_METHODS_SMTAIMediaDownloader
 __OBJC_METACLASS_RO_$_SMTAIMediaDownloader
 __OBJC_CLASS_RO_$_SMTAIMediaDownloader
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Utility/SMTAIMediaDownloader.m
 SmartechAppInbox/Utility/SMTAIMediaDownloader.m
-__copy_helper_block_e4_20b28s
+__copy_helper_block_e8_32b48s
 __87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke_2
 __87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke
 -[SMTAIAppInboxOperation initWithFilter:andCompletion:]
@@ -1639,7 +1640,7 @@ ___31-[SMTAIAppInboxOperation start]_block_invoke.43
 -[SMTAIAppInboxOperation .cxx_destruct]
 _OBJC_CLASSLIST_REFERENCES_$_.17
 _OBJC_CLASSLIST_REFERENCES_$_.27
-___block_descriptor_24_e4_20s_e21_v8?0"NSDictionary"4l
+___block_descriptor_40_e8_32s_e22_v16?0"NSDictionary"8l
 _OBJC_IVAR_$_SMTAIAppInboxOperation._completion
 _OBJC_IVAR_$_SMTAIAppInboxOperation._request
 __OBJC_METACLASS_RO_$_SMTAIAppInboxOperation
@@ -1662,7 +1663,7 @@ ___28-[SMTAIMediaOperation start]_block_invoke.22
 -[SMTAIMediaOperation URLString]
 -[SMTAIMediaOperation setURLString:]
 -[SMTAIMediaOperation .cxx_destruct]
-___block_descriptor_24_e4_20s_e14_v8?0"NSURL"4l
+___block_descriptor_40_e8_32s_e15_v16?0"NSURL"8l
 _OBJC_IVAR_$_SMTAIMediaOperation._completion
 _OBJC_IVAR_$_SMTAIMediaOperation._URLString
 __OBJC_METACLASS_RO_$_SMTAIMediaOperation
@@ -1709,8 +1710,8 @@ ___30-[SMTPlayerView sliderAction:]_block_invoke_2
 -[SMTPlayerView setPlayerLayer:]
 -[SMTPlayerView .cxx_destruct]
 _OBJC_CLASSLIST_REFERENCES_$_.13
-___block_descriptor_32_e4_20s24s28s_e5_v4?0l
-___block_descriptor_20_e7_v8?0c4l
+___block_descriptor_56_e8_32s40s48s_e5_v8?0l
+___block_descriptor_32_e8_v12?0B8l
 ___block_literal_global.59
 _OBJC_IVAR_$_SMTPlayerView._player
 _OBJC_IVAR_$_SMTPlayerView._playerLayer
@@ -1822,8 +1823,8 @@ ___62-[SMTAIBackendService makeDownloadRequestFor:success:failure:]_block_invoke
 -[SMTAIBackendService service]
 -[SMTAIBackendService setService:]
 -[SMTAIBackendService .cxx_destruct]
-___block_descriptor_24_e4_20bs_e14_v8?0"NSURL"4l
-___block_descriptor_24_e4_20bs_e29_v16?0"NSURL"4"NSError"8i12l
+___block_descriptor_40_e8_32bs_e15_v16?0"NSURL"8l
+___block_descriptor_40_e8_32bs_e30_v32?0"NSURL"8"NSError"16q24l
 __OBJC_METACLASS_RO_$_SMTAIBackendService
 __OBJC_$_INSTANCE_METHODS_SMTAIBackendService
 _OBJC_IVAR_$_SMTAIBackendService._service
@@ -1886,7 +1887,7 @@ ___43+[SMTAIBackendConfiguration sharedInstance]_block_invoke
 -[SMTAIBackendConfiguration listSegmentUrl]
 -[SMTAIBackendConfiguration setListSegmentUrl:]
 -[SMTAIBackendConfiguration .cxx_destruct]
-___block_descriptor_24_e4__e5_v4?0l
+___block_descriptor_40_e8__e5_v8?0l
 __OBJC_$_CLASS_METHODS_SMTAIBackendConfiguration
 __OBJC_METACLASS_RO_$_SMTAIBackendConfiguration
 __OBJC_$_INSTANCE_METHODS_SMTAIBackendConfiguration
@@ -2009,8 +2010,6 @@ __OBJC_CLASS_RO_$_SMTAppInboxCarouselView
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/Views/CustomViews/SMTAppInboxCarouselView.m
 SmartechAppInbox/Views/CustomViews/SMTAppInboxCarouselView.m
 SmartechAppInbox/Views/CustomViews/SMTAppInboxCarouselView.h
-CGSizeMake
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
 __105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke.84
 __105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke
 /Users/shankar/Documents/Netcore/SDK/netcoreSDK3/Smartech-SDK-New-iOS/SmartechAppInbox/SmartechAppInbox/NetworkLayer/Backend/SMTAIHTTPMethod.m

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'SmartechAppInbox-iOS-SDK'
-  s.version                 = '3.2.1'
+  s.version                 = '3.2.2'
   s.summary                 = 'The SmartechAppInbox iOS SDK for User Engagement.'
   s.description             = <<-DESC
                                 Netcore Customer Engagement platform is a omni channel platform that delivers everything you need to drive mobile engagement and create valuable consumer relationships on mobile. The SmartechAppInbox iOS SDK enables your native iOS app to use app inbox feature. This guide contains all the information you need to integrate the SmartechAppInbox iOS SDK into your app.

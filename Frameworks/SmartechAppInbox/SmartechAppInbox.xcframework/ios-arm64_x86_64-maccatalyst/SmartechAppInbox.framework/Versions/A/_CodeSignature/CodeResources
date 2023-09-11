@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		ES7CAFVL9ISWZYOT545NqeZSdBY=
+		WwXL3ZxlbmISFrVZEAo9FOLMHlI=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		JQ+pgt94CuA7Pw5L3S4Nz57amYs=
+		Xd5e+kUjYAqZkMmDeI7yglZK5Lw=
 		</data>
 		<key>Resources/SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Resources/SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib</key>
 		<data>
-		tdPJLArG3dq+g/U1PioKc6XBAXM=
+		wBKbrV6LzJ2BY66CtRZ53IO0hfA=
 		</data>
 		<key>Resources/SMTAppInboxCarouselCollectionViewCell.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox.mom</key>
 		<data>
-		TKj9uZG7Vkk6W0YTjjd3FJoxFOY=
+		ioRFF7VroIxuhC3NS8manwkHrgg=
 		</data>
 		<key>Resources/SmartechAppInbox.momd/VersionInfo.plist</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZ164Imuw27T87MNPFWLdp8LDGAtRgi0lhKM418eQhM=
+			/VQXNDEmJ4/MPcdWNyNRXL3mMD+jiGlXHso23BksktE=
 			</data>
 		</dict>
 		<key>Headers/SmartechAppInbox.h</key>
@@ -118,14 +118,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uvIK+q+D3no4EB3IaDOHkIzK7FoiPcN+ZYRhQfLRAaA=
+			MsKk5UT0EXnSYfNSY/kqTeM4BK7zBf/YqRJgL/5PTLg=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W5+GkfQlvadyl9DWeMhUt7HXSTIixR0QS6kbcB0N7J0=
+			JTEtMFyPXsbPn/h0z83CO2oDXOhH81lsPaoaOBig1QE=
 			</data>
 		</dict>
 		<key>Resources/SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MAj2ufzSFJZmAWUdGQpGQgHJlEyYzKAaEiBQlowKsTE=
+			yJJxjZKW/5SSY9PLS/VBTo1mQvGgcB4bB7ZGDBKdTpI=
 			</data>
 		</dict>
 		<key>Resources/SMTAppInboxCarouselCollectionViewCell.nib</key>
@@ -181,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lRrp+HPuRMLB/9x+q6MzoCdd2v04KO5xRNvFAQQeOPQ=
+			7uw5EgZ7dfOBfZDodxXjJP5NM1RcaMsERejD3YythTY=
 			</data>
 		</dict>
 		<key>Resources/SmartechAppInbox.momd/VersionInfo.plist</key>

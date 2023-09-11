@@ -13,6 +13,17 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+typedef NS_ENUM(NSUInteger, SMTAINotificationTapSource) {
+    // To handle when the notification is tapped.
+    SMTAINotificationTapForNotification = 1,
+    
+    // To handle when the notifications action button is tapped.
+    SMTAINotificationTapForActionButton = 2,
+    
+    // To handle other actions such as play media or next-previous buttons.
+    SMTAINotificationTapForOtherActions = 3
+};
+
 @interface SMTAppInboxViewController : UIViewController
 
 @property (weak, nonatomic) IBOutlet UITableView *tableView;

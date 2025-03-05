@@ -27,7 +27,7 @@ FOUNDATION_EXPORT const unsigned char SmartechAppInboxVersionString[];
 
 typedef NS_ENUM(NSUInteger, SMTAppInboxMessageType) {
     SMTAppInboxMessageTypeAll,
-    SMTAppInboxMessageTypeDismiss,
+    SMTAppInboxMessageTypeInbox,
     SMTAppInboxMessageTypeRead,
     SMTAppInboxMessageTypeUnread
 };

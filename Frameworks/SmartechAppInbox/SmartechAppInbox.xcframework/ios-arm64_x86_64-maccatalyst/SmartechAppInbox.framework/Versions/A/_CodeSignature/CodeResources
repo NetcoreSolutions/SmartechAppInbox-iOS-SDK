@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		zBOeJh+WBS3HNM0dw1ANkUy6YpY=
+		7QyO1p49r2Cy5heFodAQke9drc4=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		21boXm72S2cwJcBAbuta4x3T228=
+		jwUjwi75mu8T8FsIUpdj/gMWPww=
 		</data>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox 2.mom</key>
 		<data>
-		cNbbkGTJKry9OlGKr82UJHiCAAY=
+		dKqht0lsbxADR3PCvhnEmdlQ7d0=
 		</data>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox 3.mom</key>
 		<data>
-		BPAEFMo0YxA9AYYh1HHBHhwMyYA=
+		oYBs+tcCTCUr5AGlFn+pjMI/+nY=
 		</data>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox 3.omo</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox.mom</key>
 		<data>
-		GhNAKFfd2/xR6+A7VaJUilPIxBY=
+		B8CtfbnG+FPhDkMqORvT7laXDZU=
 		</data>
 		<key>Resources/SmartechAppInbox.momd/VersionInfo.plist</key>
 		<data>
@@ -120,7 +120,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			awfmGENGxGUpPJyV+FQQPDZx+UTeD7bkjKLJzyIeHVQ=
+			ooJ1KoQAqEj+EOcs0RJwBmMU7LgiDDqBe2DH7Eizmsk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -134,14 +134,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h/S4VdsA4brN4w0nSeYfti4A2pb/WbviSMsQIU8F/Jk=
+			FP17JN1EfBiCYYT2Oj8YQlxIoj2TgIucQrUKZ3NzTSI=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BLEN2aF4xtxvrVm/twX5dNp0sTyqfG77OoZK15mEoQs=
+			beUrSTbu4vW+/ye2edseyPYSa2uXdM5+sF4Gem/cg9A=
 			</data>
 		</dict>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
@@ -204,14 +204,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q200Mftobpr1a51UsOaMwORENqkz1929wgxUUY8h9dI=
+			LBJnoDkmZoJubLTY8yk1ETV5d2+5simYFwHo065urN4=
 			</data>
 		</dict>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox 3.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8A/FPJA9Q5WRmiNm5Uigzsc9qCJ2Q4gwy/9tnKoiqXo=
+			QyWVF3LpiZQwJ8aiBgH7gvm9APlIKJFcEL09VNRQJsE=
 			</data>
 		</dict>
 		<key>Resources/SmartechAppInbox.momd/SmartechAppInbox 3.omo</key>
@@ -225,7 +225,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jXbmff/slV+FSuJjOXdXz7FxxjKGwNCfBtk7CIMyyxE=
+			IbY/6mpnMHnKXQnaurmF1VcDW4lFLLLPlZPWT3YU6Ck=
 			</data>
 		</dict>
 		<key>Resources/SmartechAppInbox.momd/VersionInfo.plist</key>

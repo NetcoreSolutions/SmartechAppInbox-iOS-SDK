@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                    = 'SmartechAppInbox-iOS-SDK'
-  s.version                 = '3.5.7'
+  s.version                 = '3.5.8'
   s.summary                 = 'The SmartechAppInbox iOS SDK for User Engagement.'
   s.description             = <<-DESC
                                 Netcore Customer Engagement is a omni channel platform that delivers everything you need to drive mobile engagement and create valuable consumer relationships on mobile.

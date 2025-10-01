@@ -20,6 +20,7 @@ typedef NS_ENUM(NSUInteger, SMTAILogLevel) {
     SMTAILogLevelError = 5,
     SMTAILogLevelFatal = 6,
     SMTAILogLevelNone = 7,
+    SMTAILogLevelSystem = 8
 };
 
 #define SMTAILogVerbose( s, ... ) [SMTAILogger print:[self class] logLevel:SMTAILogLevelVerbose func:[NSString stringWithFormat: @"%s", __PRETTY_FUNCTION__] lineNumber:__LINE__ str:[NSString stringWithFormat:(s), ##__VA_ARGS__]]
@@ -29,6 +30,7 @@ typedef NS_ENUM(NSUInteger, SMTAILogLevel) {
 #define SMTAILogError( s, ... ) [SMTAILogger print:[self class] logLevel:SMTAILogLevelError func:[NSString stringWithFormat: @"%s", __PRETTY_FUNCTION__] lineNumber:__LINE__ str:[NSString stringWithFormat:(s), ##__VA_ARGS__]]
 #define SMTAILogFatal( s, ... ) [SMTAILogger print:[self class] logLevel:SMTAILogLevelFatal func:[NSString stringWithFormat: @"%s", __PRETTY_FUNCTION__] lineNumber:__LINE__ str:[NSString stringWithFormat:(s), ##__VA_ARGS__]]
 #define SMTAILogInternal( s, ... ) [SMTAILogger print:[self class] logLevel:SMTAILogLevelInternal func:[NSString stringWithFormat: @"%s", __PRETTY_FUNCTION__] lineNumber:__LINE__ str:[NSString stringWithFormat:(s), ##__VA_ARGS__]]
+#define SMTAILogSystem( s, ... ) [SMTAILogger print:[self class] logLevel:SMTAILogLevelSystem func:[NSString stringWithFormat: @"%s", __PRETTY_FUNCTION__] lineNumber:__LINE__ str:[NSString stringWithFormat:(s), ##__VA_ARGS__]]
 
 extern const int SMTAILogLevelInternal;
 extern const int SMTEnableInternalLog;

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Sj1yPjWA0VjLPsncl6e+PWbMQ0k=
+		pIqKq/cZt+wZeBuSfB4xO70ZVA0=
 		</data>
 		<key>Headers/SMTAIBaseManagedObject.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/SMTAILogger.h</key>
 		<data>
-		FcN0lGI43ZJ5kNGIRyWlmHSx304=
+		tvKpJ+FZZuvzJ44R/JQZsEOHfFY=
 		</data>
 		<key>Headers/SMTAppInboxCategoryModel.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hkbeRkS28cGbs9msg+FO2y4sK1k=
+		9QFlzVEOR2sqzz1q7YIISK/lROw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib/objects-11.0+.nib</key>
 		<data>
-		poZ7tFwtCjxtchgdJBEwxQi96/I=
+		BvzSl5VQ4nZg8PngVXinAUoS+9g=
 		</data>
 		<key>SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib/objects-12.3+.nib</key>
 		<data>
-		poZ7tFwtCjxtchgdJBEwxQi96/I=
+		BvzSl5VQ4nZg8PngVXinAUoS+9g=
 		</data>
 		<key>SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib/runtime.nib</key>
 		<data>
-		O3HMWC6pL8zWjjgePXitjRFOt8k=
+		3KwsmXcCmTmTJ3pZI/BQXhItQ5w=
 		</data>
 		<key>SMTAppInbox.storyboardc/Info.plist</key>
 		<data>
@@ -94,15 +94,15 @@
 		</data>
 		<key>SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib/objects-11.0+.nib</key>
 		<data>
-		36XRGTYD7THwo6ec7GUhamqdCWw=
+		mAsBK1TmMPPXlIKXuutIwkUMWV4=
 		</data>
 		<key>SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib/objects-12.3+.nib</key>
 		<data>
-		2A3kUgY8rEdHxYsrdEUgY2h9Y80=
+		PquAMS1081ZeUlVY707ogwjHUFI=
 		</data>
 		<key>SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib/runtime.nib</key>
 		<data>
-		8Or+nuHnrsL0Rwi6AxyhjK3yCQU=
+		UgxJ9ZmNA4PyCbUeTBbGJG7Nlv4=
 		</data>
 		<key>SMTAppInboxCarouselCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
@@ -122,11 +122,11 @@
 		</data>
 		<key>SmartechAppInbox.momd/SmartechAppInbox 2.mom</key>
 		<data>
-		dKqht0lsbxADR3PCvhnEmdlQ7d0=
+		ot0UmpCji+GgVpawBq0tAp+VQMI=
 		</data>
 		<key>SmartechAppInbox.momd/SmartechAppInbox 3.mom</key>
 		<data>
-		oYBs+tcCTCUr5AGlFn+pjMI/+nY=
+		7J/HQ+ajdrxwlBqNqFMeD08VC68=
 		</data>
 		<key>SmartechAppInbox.momd/SmartechAppInbox 3.omo</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>SmartechAppInbox.momd/SmartechAppInbox.mom</key>
 		<data>
-		B8CtfbnG+FPhDkMqORvT7laXDZU=
+		aJNYm45T8tPq79SukQ1x7mQVXbI=
 		</data>
 		<key>SmartechAppInbox.momd/VersionInfo.plist</key>
 		<data>
@@ -147,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Sj1yPjWA0VjLPsncl6e+PWbMQ0k=
+			pIqKq/cZt+wZeBuSfB4xO70ZVA0=
 			</data>
 			<key>hash2</key>
 			<data>
-			OunX2YpGg6TGwlzPWbvvqFsZtNi8JdUCBwQhBFEEtCs=
+			n7U+5cu+ELVrn1BcT8tDDNVocQwjLFxbliX4/WVyR5o=
 			</data>
 		</dict>
 		<key>Headers/SMTAIBaseManagedObject.h</key>
@@ -169,11 +169,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FcN0lGI43ZJ5kNGIRyWlmHSx304=
+			tvKpJ+FZZuvzJ44R/JQZsEOHfFY=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Jxq0GT40TgRiNAyhDrGvOxeSGQtaGR1tq6JwQYkTfc=
+			Jv4QQ8ddTOHlWekAu9eo5PiiwVFLFS89i21DEDYq5k8=
 			</data>
 		</dict>
 		<key>Headers/SMTAppInboxCategoryModel.h</key>
@@ -268,33 +268,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			poZ7tFwtCjxtchgdJBEwxQi96/I=
+			BvzSl5VQ4nZg8PngVXinAUoS+9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			eP7DNpZInTp3YBfz+WPzwGtJclKnJokyLraNdfnfnuE=
+			tBm5XBrSveXE7DuYUnwbWHXOGBwUC2JMZ0hw/8FGgbE=
 			</data>
 		</dict>
 		<key>SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			poZ7tFwtCjxtchgdJBEwxQi96/I=
+			BvzSl5VQ4nZg8PngVXinAUoS+9g=
 			</data>
 			<key>hash2</key>
 			<data>
-			eP7DNpZInTp3YBfz+WPzwGtJclKnJokyLraNdfnfnuE=
+			tBm5XBrSveXE7DuYUnwbWHXOGBwUC2JMZ0hw/8FGgbE=
 			</data>
 		</dict>
 		<key>SMTAppInbox.storyboardc/GXV-XV-Jgw-view-d49-Q8-rrd.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			O3HMWC6pL8zWjjgePXitjRFOt8k=
+			3KwsmXcCmTmTJ3pZI/BQXhItQ5w=
 			</data>
 			<key>hash2</key>
 			<data>
-			2wbgJRqPc5Z60JIjRoQSWWW0nvFM/ab+T31g5E5YVIs=
+			PCoo6foCnlTRqyDp2OE11He6LInrJfrfcvRoPaGcozs=
 			</data>
 		</dict>
 		<key>SMTAppInbox.storyboardc/Info.plist</key>
@@ -378,33 +378,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			36XRGTYD7THwo6ec7GUhamqdCWw=
+			mAsBK1TmMPPXlIKXuutIwkUMWV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			noekDlQc+p4eWlG5T2c6jiMHRmdn2AlaxQwdy9xQAK0=
+			YjAHZEuG/V+eCsvqnU81iIVfpGaeVfLTvNrTwfkqbsQ=
 			</data>
 		</dict>
 		<key>SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2A3kUgY8rEdHxYsrdEUgY2h9Y80=
+			PquAMS1081ZeUlVY707ogwjHUFI=
 			</data>
 			<key>hash2</key>
 			<data>
-			ItaHP0XiAzgYOUzWelfTxnI8z1FFqnlt0to/FWZWePA=
+			qEdDEZLUau+/x55bOqiMmeZTm7lPLXOEoVzKnDeseMY=
 			</data>
 		</dict>
 		<key>SMTAppInbox.storyboardc/X96-h3-kPe-view-tRB-zl-0CY.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8Or+nuHnrsL0Rwi6AxyhjK3yCQU=
+			UgxJ9ZmNA4PyCbUeTBbGJG7Nlv4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nsyVWsrKutuhUrCt3plVXC2cdWdq/HYySJglevf+A+Q=
+			dmpj7eJMixRv559GOoyAm0XVzgw1sNUHC/SzkCaNrqg=
 			</data>
 		</dict>
 		<key>SMTAppInboxCarouselCollectionViewCell.nib/objects-12.3+.nib</key>
@@ -455,22 +455,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dKqht0lsbxADR3PCvhnEmdlQ7d0=
+			ot0UmpCji+GgVpawBq0tAp+VQMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			LBJnoDkmZoJubLTY8yk1ETV5d2+5simYFwHo065urN4=
+			G7+iSre/G3zvjXNfTzJf5dTkfmDNhH/wf9SadzSfaDE=
 			</data>
 		</dict>
 		<key>SmartechAppInbox.momd/SmartechAppInbox 3.mom</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oYBs+tcCTCUr5AGlFn+pjMI/+nY=
+			7J/HQ+ajdrxwlBqNqFMeD08VC68=
 			</data>
 			<key>hash2</key>
 			<data>
-			QyWVF3LpiZQwJ8aiBgH7gvm9APlIKJFcEL09VNRQJsE=
+			6Zbz0081HckabgAiYrrMWsjIvz5HBwOfNpnGPWWPa04=
 			</data>
 		</dict>
 		<key>SmartechAppInbox.momd/SmartechAppInbox 3.omo</key>
@@ -488,11 +488,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B8CtfbnG+FPhDkMqORvT7laXDZU=
+			aJNYm45T8tPq79SukQ1x7mQVXbI=
 			</data>
 			<key>hash2</key>
 			<data>
-			IbY/6mpnMHnKXQnaurmF1VcDW4lFLLLPlZPWT3YU6Ck=
+			tcjqEu41vLEE5IwAFea1wqzBEk+R1TMCED5fc1yGuHk=
 			</data>
 		</dict>
 		<key>SmartechAppInbox.momd/VersionInfo.plist</key>

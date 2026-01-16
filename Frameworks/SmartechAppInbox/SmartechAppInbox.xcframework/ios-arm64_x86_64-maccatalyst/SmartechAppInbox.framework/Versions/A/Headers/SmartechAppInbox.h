@@ -95,6 +95,12 @@ You can use the below code.
  */
 - (void)getAppInboxMessage:(SMTAppInboxFilter *_Nullable)filter withCompletionHandler:(void(^_Nullable)(NSError *_Nullable,BOOL))handler;
 
+/**
+ @brief This method is called to get All app inbox message
+ @param filter contains limit, direction, timesatmp
+ */
+- (void)getAppInboxMessageWithFilter:(SMTAppInboxFilter *_Nullable)filter withCompletionHandler:(AppInboxCompletionBlock _Nullable )handler;
+
 
 /**
  @brief This method is called to get All app inbox category

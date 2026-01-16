@@ -10,11 +10,23 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+// Define the enum for direction
+typedef NS_ENUM(NSInteger, SMTInboxDirection) {
+    SMTInboxDirectionAll,
+    SMTInboxDirectionLatest,
+    SMTInboxDirectionEarliest
+};
+
 @interface SMTAppInboxFilter : NSObject
 
 @property(nonatomic,assign) NSInteger limit;
 @property(nonatomic,copy) NSString *direction;
-@property(nonatomic,copy) NSString *timestamp;
+@property(nonatomic,copy, readonly) NSString *timestamp;
+// Add new enum property for type-safe usage
+@property(nonatomic, assign) SMTInboxDirection directionType;
+
+// Setter method for enum (alternative to direct property access)
+-(void)setDirectionType:(SMTInboxDirection)directionType;
 
 - (NSDictionary *)getFilterDictionary;
 

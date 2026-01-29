@@ -2,8 +2,8 @@
 triple:          'arm64-apple-darwin'
 binary-path:     '/Users/JK/Library/Developer/Xcode/DerivedData/Smartech-bljqoftwefcsxgbqzrjdahqaeupm/Build/Intermediates.noindex/ArchiveIntermediates/SmartechAppInbox/InstallationBuildProductsLocation/Library/Frameworks/SmartechAppInbox.framework/SmartechAppInbox'
 relocations:
-  - { offset: 0xCE96A, size: 0x8, addend: 0x0, symName: _SmartechAppInboxVersionString, symObjAddr: 0x0, symBinAddr: 0x2F120, symSize: 0x0 }
-  - { offset: 0xCE99F, size: 0x8, addend: 0x0, symName: _SmartechAppInboxVersionNumber, symObjAddr: 0x40, symBinAddr: 0x2F160, symSize: 0x0 }
+  - { offset: 0xCE96A, size: 0x8, addend: 0x0, symName: _SmartechAppInboxVersionString, symObjAddr: 0x0, symBinAddr: 0x2F0E0, symSize: 0x0 }
+  - { offset: 0xCE99F, size: 0x8, addend: 0x0, symName: _SmartechAppInboxVersionNumber, symObjAddr: 0x40, symBinAddr: 0x2F120, symSize: 0x0 }
   - { offset: 0xCE9DC, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1A4 }
   - { offset: 0xCEA31, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x1A4 }
   - { offset: 0xCEAD6, size: 0x8, addend: 0x0, symName: '___90+[SMTAIMediaCacheManager downloadAndSaveMediaForInboxMessage:downloadQueue:andCompletion:]_block_invoke', symObjAddr: 0x1A4, symBinAddr: 0x41A4, symSize: 0xBC }
@@ -56,9 +56,9 @@ relocations:
   - { offset: 0xCFE95, size: 0x8, addend: 0x0, symName: _kNotificationTypeCarouselLandscape, symObjAddr: 0x1058, symBinAddr: 0x44498, symSize: 0x0 }
   - { offset: 0xCFEAB, size: 0x8, addend: 0x0, symName: _kCarouselNotificationCellNibName, symObjAddr: 0x1060, symBinAddr: 0x444A0, symSize: 0x0 }
   - { offset: 0xCFEC1, size: 0x8, addend: 0x0, symName: _kCarouselNotificationCellIdentifier, symObjAddr: 0x1068, symBinAddr: 0x444A8, symSize: 0x0 }
-  - { offset: 0xCFED7, size: 0x8, addend: 0x0, symName: _kCarouselPortraitNotificationMinimumCount, symObjAddr: 0x1260, symBinAddr: 0x2F178, symSize: 0x0 }
-  - { offset: 0xCFEF9, size: 0x8, addend: 0x0, symName: _kCarouselLandscapeNotificationMinimumCount, symObjAddr: 0x1268, symBinAddr: 0x2F180, symSize: 0x0 }
-  - { offset: 0xCFF0F, size: 0x8, addend: 0x0, symName: _kCarouselNotificationCellSpace, symObjAddr: 0x1270, symBinAddr: 0x2F188, symSize: 0x0 }
+  - { offset: 0xCFED7, size: 0x8, addend: 0x0, symName: _kCarouselPortraitNotificationMinimumCount, symObjAddr: 0x1260, symBinAddr: 0x2F138, symSize: 0x0 }
+  - { offset: 0xCFEF9, size: 0x8, addend: 0x0, symName: _kCarouselLandscapeNotificationMinimumCount, symObjAddr: 0x1268, symBinAddr: 0x2F140, symSize: 0x0 }
+  - { offset: 0xCFF0F, size: 0x8, addend: 0x0, symName: _kCarouselNotificationCellSpace, symObjAddr: 0x1270, symBinAddr: 0x2F148, symSize: 0x0 }
   - { offset: 0xCFF25, size: 0x8, addend: 0x0, symName: _kCarouselNextActionButtonTitle, symObjAddr: 0x1070, symBinAddr: 0x444B0, symSize: 0x0 }
   - { offset: 0xCFF3B, size: 0x8, addend: 0x0, symName: _kCarouselNextActionButtonIdentifier, symObjAddr: 0x1078, symBinAddr: 0x444B8, symSize: 0x0 }
   - { offset: 0xCFF51, size: 0x8, addend: 0x0, symName: _kCarouselPreviousActionButtonTitle, symObjAddr: 0x1080, symBinAddr: 0x444C0, symSize: 0x0 }
@@ -479,8 +479,8 @@ relocations:
   - { offset: 0xDA3CF, size: 0x8, addend: 0x0, symName: '+[SMTAINetworkQueue sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x143E4, symSize: 0x30 }
   - { offset: 0xDA3F9, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0x8DC0, symBinAddr: 0x55EA0, symSize: 0x0 }
   - { offset: 0xDA40F, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x8DC8, symBinAddr: 0x55EA8, symSize: 0x0 }
-  - { offset: 0xDA4C1, size: 0x8, addend: 0x0, symName: '+[SMTAINetworkQueue sharedInstance].cold.1', symObjAddr: 0x358, symBinAddr: 0x28C20, symSize: 0x14 }
-  - { offset: 0xDA4DD, size: 0x8, addend: 0x0, symName: '+[SMTAINetworkQueue sharedInstance].cold.1', symObjAddr: 0x358, symBinAddr: 0x28C20, symSize: 0x14 }
+  - { offset: 0xDA4C1, size: 0x8, addend: 0x0, symName: '+[SMTAINetworkQueue sharedInstance].cold.1', symObjAddr: 0x358, symBinAddr: 0x28BE8, symSize: 0x14 }
+  - { offset: 0xDA4DD, size: 0x8, addend: 0x0, symName: '+[SMTAINetworkQueue sharedInstance].cold.1', symObjAddr: 0x358, symBinAddr: 0x28BE8, symSize: 0x14 }
   - { offset: 0xDA4EF, size: 0x8, addend: 0x0, symName: '___35+[SMTAINetworkQueue sharedInstance]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x14414, symSize: 0x30 }
   - { offset: 0xDA516, size: 0x8, addend: 0x0, symName: '-[SMTAINetworkQueue init]', symObjAddr: 0x60, symBinAddr: 0x14444, symSize: 0x70 }
   - { offset: 0xDA54D, size: 0x8, addend: 0x0, symName: '-[SMTAINetworkQueue addOperation:]', symObjAddr: 0xD0, symBinAddr: 0x144B4, symSize: 0x60 }
@@ -617,24 +617,24 @@ relocations:
   - { offset: 0xDDC2A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxViewController setRefreshCooldownInterval:]', symObjAddr: 0x2C88, symBinAddr: 0x19B30, symSize: 0x10 }
   - { offset: 0xDDC68, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxViewController .cxx_destruct]', symObjAddr: 0x2C98, symBinAddr: 0x19B40, symSize: 0x158 }
   - { offset: 0xDE465, size: 0x8, addend: 0x0, symName: '+[SMTAILogger setDebugLevel:]', symObjAddr: 0x0, symBinAddr: 0x19C98, symSize: 0xC }
-  - { offset: 0xDE47F, size: 0x8, addend: 0x0, symName: _SMTAILogLevelInternal, symObjAddr: 0x318, symBinAddr: 0x2F1E8, symSize: 0x0 }
-  - { offset: 0xDE4A1, size: 0x8, addend: 0x0, symName: _SMTEnableInternalLog, symObjAddr: 0x31C, symBinAddr: 0x2F1EC, symSize: 0x0 }
+  - { offset: 0xDE47F, size: 0x8, addend: 0x0, symName: _SMTAILogLevelInternal, symObjAddr: 0x318, symBinAddr: 0x2F1A8, symSize: 0x0 }
+  - { offset: 0xDE4A1, size: 0x8, addend: 0x0, symName: _SMTEnableInternalLog, symObjAddr: 0x31C, symBinAddr: 0x2F1AC, symSize: 0x0 }
   - { offset: 0xDE4AB, size: 0x8, addend: 0x0, symName: '+[SMTAILogger print:logLevel:func:lineNumber:str:]', symObjAddr: 0x18, symBinAddr: 0x19CB0, symSize: 0x21C }
   - { offset: 0xDE4D1, size: 0x8, addend: 0x0, symName: '_print:logLevel:func:lineNumber:str:.logger', symObjAddr: 0x95E0, symBinAddr: 0x55EB8, symSize: 0x0 }
   - { offset: 0xDE4E7, size: 0x8, addend: 0x0, symName: '_print:logLevel:func:lineNumber:str:.onceToken', symObjAddr: 0x95E8, symBinAddr: 0x55EC0, symSize: 0x0 }
   - { offset: 0xDE696, size: 0x8, addend: 0x0, symName: __debugLevel, symObjAddr: 0x95D8, symBinAddr: 0x55EB0, symSize: 0x0 }
   - { offset: 0xDE703, size: 0x8, addend: 0x0, symName: '+[SMTAILogger setDebugLevel:]', symObjAddr: 0x0, symBinAddr: 0x19C98, symSize: 0xC }
   - { offset: 0xDE740, size: 0x8, addend: 0x0, symName: '+[SMTAILogger getDebugLevel]', symObjAddr: 0xC, symBinAddr: 0x19CA4, symSize: 0xC }
-  - { offset: 0xDE85C, size: 0x8, addend: 0x0, symName: '+[SMTAILogger print:logLevel:func:lineNumber:str:].cold.1', symObjAddr: 0x290, symBinAddr: 0x28C34, symSize: 0x14 }
-  - { offset: 0xDE878, size: 0x8, addend: 0x0, symName: '+[SMTAILogger print:logLevel:func:lineNumber:str:].cold.1', symObjAddr: 0x290, symBinAddr: 0x28C34, symSize: 0x14 }
+  - { offset: 0xDE85C, size: 0x8, addend: 0x0, symName: '+[SMTAILogger print:logLevel:func:lineNumber:str:].cold.1', symObjAddr: 0x290, symBinAddr: 0x28BFC, symSize: 0x14 }
+  - { offset: 0xDE878, size: 0x8, addend: 0x0, symName: '+[SMTAILogger print:logLevel:func:lineNumber:str:].cold.1', symObjAddr: 0x290, symBinAddr: 0x28BFC, symSize: 0x14 }
   - { offset: 0xDE89A, size: 0x8, addend: 0x0, symName: '___50+[SMTAILogger print:logLevel:func:lineNumber:str:]_block_invoke', symObjAddr: 0x234, symBinAddr: 0x19ECC, symSize: 0x34 }
   - { offset: 0xDE8E6, size: 0x8, addend: 0x0, symName: '+[SMTAILogger logLevelString:]', symObjAddr: 0x268, symBinAddr: 0x19F00, symSize: 0x28 }
   - { offset: 0xDEA12, size: 0x8, addend: 0x0, symName: _sharedAIDataInstance, symObjAddr: 0x15860, symBinAddr: 0x55EC8, symSize: 0x0 }
   - { offset: 0xDEAED, size: 0x8, addend: 0x0, symName: '+[SMTAIDataController sharedInstance]', symObjAddr: 0x1C0, symBinAddr: 0x1A0E8, symSize: 0x30 }
   - { offset: 0xDEB17, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x15868, symBinAddr: 0x55ED0, symSize: 0x0 }
   - { offset: 0xDEB65, size: 0x8, addend: 0x0, symName: '-[SMTAIDataController initDatabaseWithDataModel:]', symObjAddr: 0x0, symBinAddr: 0x19F28, symSize: 0x1C0 }
-  - { offset: 0xDEBFF, size: 0x8, addend: 0x0, symName: '+[SMTAIDataController sharedInstance].cold.1', symObjAddr: 0x1144, symBinAddr: 0x28C48, symSize: 0x14 }
-  - { offset: 0xDEC1B, size: 0x8, addend: 0x0, symName: '+[SMTAIDataController sharedInstance].cold.1', symObjAddr: 0x1144, symBinAddr: 0x28C48, symSize: 0x14 }
+  - { offset: 0xDEBFF, size: 0x8, addend: 0x0, symName: '+[SMTAIDataController sharedInstance].cold.1', symObjAddr: 0x1144, symBinAddr: 0x28C10, symSize: 0x14 }
+  - { offset: 0xDEC1B, size: 0x8, addend: 0x0, symName: '+[SMTAIDataController sharedInstance].cold.1', symObjAddr: 0x1144, symBinAddr: 0x28C10, symSize: 0x14 }
   - { offset: 0xDEC2D, size: 0x8, addend: 0x0, symName: '___37+[SMTAIDataController sharedInstance]_block_invoke', symObjAddr: 0x1F0, symBinAddr: 0x1A118, symSize: 0x38 }
   - { offset: 0xDEC54, size: 0x8, addend: 0x0, symName: '-[SMTAIDataController storeDescriptionWithURL:]', symObjAddr: 0x228, symBinAddr: 0x1A150, symSize: 0x54 }
   - { offset: 0xDECA7, size: 0x8, addend: 0x0, symName: '-[SMTAIDataController loadSDKDatabaseWithCompletionHandler:]', symObjAddr: 0x27C, symBinAddr: 0x1A1A4, symSize: 0x318 }
@@ -726,364 +726,364 @@ relocations:
   - { offset: 0xE16FB, size: 0x8, addend: 0x0, symName: '+[SMTAIDeeplinkHelper getEncodedStringEscapingAlphaNumericCharacters:]', symObjAddr: 0x914, symBinAddr: 0x1D3B0, symSize: 0x180 }
   - { offset: 0xE1784, size: 0x8, addend: 0x0, symName: '+[SMTAIDeeplinkHelper extractSubjectAndBody:]', symObjAddr: 0xA94, symBinAddr: 0x1D530, symSize: 0x294 }
   - { offset: 0xE1967, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox initialiseAppInboxSDKFor:]', symObjAddr: 0x0, symBinAddr: 0x1D7C4, symSize: 0x12C }
-  - { offset: 0xE1986, size: 0x8, addend: 0x0, symName: _sharedSmartechAppInboxInstance, symObjAddr: 0x23F60, symBinAddr: 0x55ED8, symSize: 0x0 }
+  - { offset: 0xE1986, size: 0x8, addend: 0x0, symName: _sharedSmartechAppInboxInstance, symObjAddr: 0x241C0, symBinAddr: 0x55ED8, symSize: 0x0 }
   - { offset: 0xE19D6, size: 0x8, addend: 0x0, symName: '+[SmartechAppInbox sharedInstance]', symObjAddr: 0x1D4, symBinAddr: 0x1D998, symSize: 0x30 }
-  - { offset: 0xE1A00, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x23F68, symBinAddr: 0x55EE0, symSize: 0x0 }
+  - { offset: 0xE1A00, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0x241C8, symBinAddr: 0x55EE0, symSize: 0x0 }
   - { offset: 0xE1ABB, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox initialiseAppInboxSDKFor:]', symObjAddr: 0x0, symBinAddr: 0x1D7C4, symSize: 0x12C }
   - { offset: 0xE1B0E, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox appInboxHasBeenDisabled]', symObjAddr: 0x12C, symBinAddr: 0x1D8F0, symSize: 0xA8 }
-  - { offset: 0xE1B75, size: 0x8, addend: 0x0, symName: '+[SmartechAppInbox sharedInstance].cold.1', symObjAddr: 0x2240, symBinAddr: 0x28C5C, symSize: 0x14 }
-  - { offset: 0xE1B91, size: 0x8, addend: 0x0, symName: '+[SmartechAppInbox sharedInstance].cold.1', symObjAddr: 0x2240, symBinAddr: 0x28C5C, symSize: 0x14 }
+  - { offset: 0xE1B75, size: 0x8, addend: 0x0, symName: '+[SmartechAppInbox sharedInstance].cold.1', symObjAddr: 0x2208, symBinAddr: 0x28C24, symSize: 0x14 }
+  - { offset: 0xE1B91, size: 0x8, addend: 0x0, symName: '+[SmartechAppInbox sharedInstance].cold.1', symObjAddr: 0x2208, symBinAddr: 0x28C24, symSize: 0x14 }
   - { offset: 0xE1BA3, size: 0x8, addend: 0x0, symName: '___34+[SmartechAppInbox sharedInstance]_block_invoke', symObjAddr: 0x204, symBinAddr: 0x1D9C8, symSize: 0x30 }
   - { offset: 0xE1BCA, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox initSDKWithDelegate:withLaunchOptions:]', symObjAddr: 0x234, symBinAddr: 0x1D9F8, symSize: 0xA8 }
   - { offset: 0xE1C15, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxViewController]', symObjAddr: 0x2DC, symBinAddr: 0x1DAA0, symSize: 0x18C }
   - { offset: 0xE1C8E, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox performInitialSetupWithData:]', symObjAddr: 0x468, symBinAddr: 0x1DC2C, symSize: 0xF8 }
   - { offset: 0xE1CEC, size: 0x8, addend: 0x0, symName: '___48-[SmartechAppInbox performInitialSetupWithData:]_block_invoke', symObjAddr: 0x560, symBinAddr: 0x1DD24, symSize: 0x198 }
-  - { offset: 0xE1D3B, size: 0x8, addend: 0x0, symName: '___48-[SmartechAppInbox performInitialSetupWithData:]_block_invoke_2', symObjAddr: 0x6F8, symBinAddr: 0x1DEBC, symSize: 0x150 }
-  - { offset: 0xE1D8A, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAllAppInboxMessages:]', symObjAddr: 0x858, symBinAddr: 0x1E00C, symSize: 0x124 }
-  - { offset: 0xE1DCD, size: 0x8, addend: 0x0, symName: '___43-[SmartechAppInbox getAllAppInboxMessages:]_block_invoke', symObjAddr: 0x97C, symBinAddr: 0x1E130, symSize: 0x64 }
-  - { offset: 0xE1E28, size: 0x8, addend: 0x0, symName: '___43-[SmartechAppInbox getAllAppInboxMessages:]_block_invoke_2', symObjAddr: 0x9E0, symBinAddr: 0x1E194, symSize: 0x18C }
-  - { offset: 0xE1E97, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]', symObjAddr: 0xB6C, symBinAddr: 0x1E320, symSize: 0x14C }
-  - { offset: 0xE1EEA, size: 0x8, addend: 0x0, symName: '___61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke', symObjAddr: 0xCB8, symBinAddr: 0x1E46C, symSize: 0x7C }
-  - { offset: 0xE1F41, size: 0x8, addend: 0x0, symName: '___61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke_2', symObjAddr: 0xD34, symBinAddr: 0x1E4E8, symSize: 0xC }
-  - { offset: 0xE1FB5, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]', symObjAddr: 0xD50, symBinAddr: 0x1E4F4, symSize: 0x2B8 }
-  - { offset: 0xE2043, size: 0x8, addend: 0x0, symName: '___71-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]_block_invoke', symObjAddr: 0x1008, symBinAddr: 0x1E7AC, symSize: 0xDC }
-  - { offset: 0xE20BA, size: 0x8, addend: 0x0, symName: '___71-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]_block_invoke_2', symObjAddr: 0x10E4, symBinAddr: 0x1E888, symSize: 0xB4 }
-  - { offset: 0xE2168, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxCategoryList]', symObjAddr: 0x11F4, symBinAddr: 0x1E93C, symSize: 0x7C }
-  - { offset: 0xE219B, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getPullToRefreshParameter]', symObjAddr: 0x1270, symBinAddr: 0x1E9B8, symSize: 0x14 }
-  - { offset: 0xE21D0, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getPaginationParameter]', symObjAddr: 0x1284, symBinAddr: 0x1E9CC, symSize: 0x14 }
-  - { offset: 0xE2205, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppLaunchParameter]', symObjAddr: 0x1298, symBinAddr: 0x1E9E0, symSize: 0x88 }
-  - { offset: 0xE224C, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox updateTimestampInFilter:]', symObjAddr: 0x1320, symBinAddr: 0x1EA68, symSize: 0xC0 }
-  - { offset: 0xE22AF, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageWithCategory:]', symObjAddr: 0x13E0, symBinAddr: 0x1EB28, symSize: 0xAC }
-  - { offset: 0xE22F2, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsViewed:]', symObjAddr: 0x148C, symBinAddr: 0x1EBD4, symSize: 0x114 }
-  - { offset: 0xE238A, size: 0x8, addend: 0x0, symName: '___40-[SmartechAppInbox markMessageAsViewed:]_block_invoke', symObjAddr: 0x15A0, symBinAddr: 0x1ECE8, symSize: 0x70 }
-  - { offset: 0xE23E5, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]', symObjAddr: 0x1610, symBinAddr: 0x1ED58, symSize: 0xEC }
-  - { offset: 0xE2445, size: 0x8, addend: 0x0, symName: '___65-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]_block_invoke', symObjAddr: 0x16FC, symBinAddr: 0x1EE44, symSize: 0xA4 }
-  - { offset: 0xE24C2, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsClicked:withDeeplink:]', symObjAddr: 0x17A0, symBinAddr: 0x1EEE8, symSize: 0x8 }
-  - { offset: 0xE2512, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]', symObjAddr: 0x17A8, symBinAddr: 0x1EEF0, symSize: 0x1BC }
-  - { offset: 0xE2587, size: 0x8, addend: 0x0, symName: '___75-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]_block_invoke', symObjAddr: 0x1964, symBinAddr: 0x1F0AC, symSize: 0xB4 }
-  - { offset: 0xE25E7, size: 0x8, addend: 0x0, symName: '___75-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]_block_invoke_2', symObjAddr: 0x1A18, symBinAddr: 0x1F160, symSize: 0xA4 }
-  - { offset: 0xE2654, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessages:]', symObjAddr: 0x1ABC, symBinAddr: 0x1F204, symSize: 0x84 }
-  - { offset: 0xE2699, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageCount:]', symObjAddr: 0x1B40, symBinAddr: 0x1F288, symSize: 0x7C }
-  - { offset: 0xE26DE, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getInboxMessageById:]', symObjAddr: 0x1BBC, symBinAddr: 0x1F304, symSize: 0x98 }
-  - { offset: 0xE2723, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox createFilterWithDirection:useFirstRecord:]', symObjAddr: 0x1C54, symBinAddr: 0x1F39C, symSize: 0xAC }
-  - { offset: 0xE278E, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox createFilterWithDirection:timestamp:]', symObjAddr: 0x1D00, symBinAddr: 0x1F448, symSize: 0x80 }
-  - { offset: 0xE27F5, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getFirstInboxMessage]', symObjAddr: 0x1D80, symBinAddr: 0x1F4C8, symSize: 0x7C }
-  - { offset: 0xE2829, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getLastInboxMessage]', symObjAddr: 0x1DFC, symBinAddr: 0x1F544, symSize: 0x7C }
-  - { offset: 0xE285D, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getTimestampFromMessage:]', symObjAddr: 0x1E78, symBinAddr: 0x1F5C0, symSize: 0x38 }
-  - { offset: 0xE28A2, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox deleteExpiredMessagesMediaInContext:]', symObjAddr: 0x1EB0, symBinAddr: 0x1F5F8, symSize: 0x338 }
-  - { offset: 0xE295B, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox isClientIdPanelKeyAvailable]', symObjAddr: 0x21E8, symBinAddr: 0x1F930, symSize: 0x48 }
-  - { offset: 0xE29A0, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox isAppInboxEnabled]', symObjAddr: 0x2230, symBinAddr: 0x1F978, symSize: 0x8 }
-  - { offset: 0xE29D7, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox setIsAppInboxEnabled:]', symObjAddr: 0x2238, symBinAddr: 0x1F980, symSize: 0x8 }
-  - { offset: 0xE35D5, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x1F988, symSize: 0xD0 }
-  - { offset: 0xE37B1, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x1F988, symSize: 0xD0 }
-  - { offset: 0xE37E4, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell configureCellWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0xD0, symBinAddr: 0x1FA58, symSize: 0xF0 }
-  - { offset: 0xE3847, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x1C0, symBinAddr: 0x1FB48, symSize: 0x288 }
-  - { offset: 0xE38E2, size: 0x8, addend: 0x0, symName: '___81-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x448, symBinAddr: 0x1FDD0, symSize: 0xF0 }
-  - { offset: 0xE3994, size: 0x8, addend: 0x0, symName: '___81-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2', symObjAddr: 0x538, symBinAddr: 0x1FEC0, symSize: 0x200 }
-  - { offset: 0xE3A1A, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setupPlayerWithMediaURLPath:]', symObjAddr: 0x808, symBinAddr: 0x200C0, symSize: 0xF4 }
-  - { offset: 0xE3A6D, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell play]', symObjAddr: 0x8FC, symBinAddr: 0x201B4, symSize: 0x90 }
-  - { offset: 0xE3AA0, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell pause]', symObjAddr: 0x98C, symBinAddr: 0x20244, symSize: 0x60 }
-  - { offset: 0xE3AD3, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell videoContainerView]', symObjAddr: 0x9EC, symBinAddr: 0x202A4, symSize: 0x20 }
-  - { offset: 0xE3B0A, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setVideoContainerView:]', symObjAddr: 0xA0C, symBinAddr: 0x202C4, symSize: 0x14 }
-  - { offset: 0xE3B4B, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell placeholderImageView]', symObjAddr: 0xA20, symBinAddr: 0x202D8, symSize: 0x20 }
-  - { offset: 0xE3B82, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setPlaceholderImageView:]', symObjAddr: 0xA40, symBinAddr: 0x202F8, symSize: 0x14 }
-  - { offset: 0xE3BC3, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell playerView]', symObjAddr: 0xA54, symBinAddr: 0x2030C, symSize: 0x10 }
-  - { offset: 0xE3BFA, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setPlayerView:]', symObjAddr: 0xA64, symBinAddr: 0x2031C, symSize: 0x14 }
-  - { offset: 0xE3C3B, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell .cxx_destruct]', symObjAddr: 0xA78, symBinAddr: 0x20330, symSize: 0x4C }
-  - { offset: 0xE4167, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x2037C, symSize: 0x5C }
-  - { offset: 0xE41A8, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x2037C, symSize: 0x5C }
-  - { offset: 0xE41EB, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithCoder:]', symObjAddr: 0x5C, symBinAddr: 0x203D8, symSize: 0x50 }
-  - { offset: 0xE4232, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView drawRect:]', symObjAddr: 0xAC, symBinAddr: 0x20428, symSize: 0x4 }
-  - { offset: 0xE426F, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView prepareForInterfaceBuilder]', symObjAddr: 0xB0, symBinAddr: 0x2042C, symSize: 0x4 }
-  - { offset: 0xE42A0, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView customInit]', symObjAddr: 0xB4, symBinAddr: 0x20430, symSize: 0x58 }
-  - { offset: 0xE42D3, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView cornerRadious]', symObjAddr: 0x10C, symBinAddr: 0x20488, symSize: 0x10 }
-  - { offset: 0xE4308, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView setCornerRadious:]', symObjAddr: 0x11C, symBinAddr: 0x20498, symSize: 0x10 }
-  - { offset: 0xE43C8, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x204A8, symSize: 0x30 }
-  - { offset: 0xE43DB, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x204A8, symSize: 0x30 }
-  - { offset: 0xE4405, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xC770, symBinAddr: 0x55EE8, symSize: 0x0 }
-  - { offset: 0xE441B, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xC778, symBinAddr: 0x55EF0, symSize: 0x0 }
-  - { offset: 0xE44FF, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance].cold.1', symObjAddr: 0x458, symBinAddr: 0x28C70, symSize: 0x14 }
-  - { offset: 0xE451B, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance].cold.1', symObjAddr: 0x458, symBinAddr: 0x28C70, symSize: 0x14 }
-  - { offset: 0xE452D, size: 0x8, addend: 0x0, symName: '___44+[SMTAppInboxSmartechAdapter sharedInstance]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x204D8, symSize: 0x30 }
-  - { offset: 0xE4554, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter initAppInboxSDKWithSettings:withDelegate:]', symObjAddr: 0x60, symBinAddr: 0x20508, symSize: 0x184 }
-  - { offset: 0xE45C2, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter appInboxHasBeenDisabled]', symObjAddr: 0x1E4, symBinAddr: 0x2068C, symSize: 0xA8 }
-  - { offset: 0xE45F5, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter trackEventWithID:andPayload:withDeeplink:]', symObjAddr: 0x28C, symBinAddr: 0x20734, symSize: 0x138 }
-  - { offset: 0xE4668, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter handleDeeplinkURLString:payload:]', symObjAddr: 0x3C4, symBinAddr: 0x2086C, symSize: 0x74 }
-  - { offset: 0xE46BB, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter smartechAdapter]', symObjAddr: 0x438, symBinAddr: 0x208E0, symSize: 0x8 }
-  - { offset: 0xE46F2, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter setSmartechAdapter:]', symObjAddr: 0x440, symBinAddr: 0x208E8, symSize: 0xC }
-  - { offset: 0xE4733, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter .cxx_destruct]', symObjAddr: 0x44C, symBinAddr: 0x208F4, symSize: 0xC }
-  - { offset: 0xE4AFE, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest initWithFilter:]', symObjAddr: 0x0, symBinAddr: 0x20900, symSize: 0x2C }
-  - { offset: 0xE4B1D, size: 0x8, addend: 0x0, symName: _kSMTAIAppInboxAPIVersion, symObjAddr: 0x3A8, symBinAddr: 0x44DF8, symSize: 0x0 }
-  - { offset: 0xE4BFD, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest initWithFilter:]', symObjAddr: 0x0, symBinAddr: 0x20900, symSize: 0x2C }
-  - { offset: 0xE4C44, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest endpoint]', symObjAddr: 0x2C, symBinAddr: 0x2092C, symSize: 0x10 }
-  - { offset: 0xE4C77, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest URLParameters]', symObjAddr: 0x3C, symBinAddr: 0x2093C, symSize: 0x248 }
-  - { offset: 0xE4CDE, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest bodyParameters]', symObjAddr: 0x284, symBinAddr: 0x20B84, symSize: 0x8 }
-  - { offset: 0xE4D11, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest method]', symObjAddr: 0x28C, symBinAddr: 0x20B8C, symSize: 0x8 }
-  - { offset: 0xE4D44, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest getOSName]', symObjAddr: 0x294, symBinAddr: 0x20B94, symSize: 0x6C }
-  - { offset: 0xE4D77, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest filter]', symObjAddr: 0x300, symBinAddr: 0x20C00, symSize: 0x10 }
-  - { offset: 0xE4DAE, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest setFilter:]', symObjAddr: 0x310, symBinAddr: 0x20C10, symSize: 0x14 }
-  - { offset: 0xE4DEF, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest userIdentity]', symObjAddr: 0x324, symBinAddr: 0x20C24, symSize: 0x10 }
-  - { offset: 0xE4E26, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest setUserIdentity:]', symObjAddr: 0x334, symBinAddr: 0x20C34, symSize: 0xC }
-  - { offset: 0xE4E65, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest .cxx_destruct]', symObjAddr: 0x340, symBinAddr: 0x20C40, symSize: 0x40 }
-  - { offset: 0xE4F43, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withCompletion:]', symObjAddr: 0x0, symBinAddr: 0x20C80, symSize: 0xC }
-  - { offset: 0xE4F6C, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withCompletion:]', symObjAddr: 0x0, symBinAddr: 0x20C80, symSize: 0xC }
-  - { offset: 0xE4FBB, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]', symObjAddr: 0xC, symBinAddr: 0x20C8C, symSize: 0x228 }
-  - { offset: 0xE5051, size: 0x8, addend: 0x0, symName: '___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke', symObjAddr: 0x234, symBinAddr: 0x20EB4, symSize: 0x14C }
-  - { offset: 0xE50DC, size: 0x8, addend: 0x0, symName: '___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke_2', symObjAddr: 0x380, symBinAddr: 0x21000, symSize: 0xC }
-  - { offset: 0xE5131, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader savetheMediaFileWithURL:location:andCompletion:]', symObjAddr: 0x400, symBinAddr: 0x2100C, symSize: 0x3A0 }
-  - { offset: 0xE5226, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader removeQueryParametersFromUrl:]', symObjAddr: 0x7A0, symBinAddr: 0x213AC, symSize: 0xE0 }
-  - { offset: 0xE54CA, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation initWithFilter:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x2148C, symSize: 0x134 }
-  - { offset: 0xE5666, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation initWithFilter:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x2148C, symSize: 0x134 }
-  - { offset: 0xE56BD, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation handleSuccess:]', symObjAddr: 0x134, symBinAddr: 0x215C0, symSize: 0x84 }
-  - { offset: 0xE570C, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation processAppInboxResponse:]', symObjAddr: 0x1B8, symBinAddr: 0x21644, symSize: 0x28C }
-  - { offset: 0xE57E9, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation handleFailure:]', symObjAddr: 0x444, symBinAddr: 0x218D0, symSize: 0x58 }
-  - { offset: 0xE5838, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation start]', symObjAddr: 0x49C, symBinAddr: 0x21928, symSize: 0xE0 }
-  - { offset: 0xE586B, size: 0x8, addend: 0x0, symName: '___31-[SMTAIAppInboxOperation start]_block_invoke', symObjAddr: 0x57C, symBinAddr: 0x21A08, symSize: 0x2C }
-  - { offset: 0xE58BA, size: 0x8, addend: 0x0, symName: '___31-[SMTAIAppInboxOperation start]_block_invoke.11', symObjAddr: 0x5B8, symBinAddr: 0x21A34, symSize: 0x2C }
-  - { offset: 0xE5909, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation completion]', symObjAddr: 0x5E4, symBinAddr: 0x21A60, symSize: 0x10 }
-  - { offset: 0xE5940, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setCompletion:]', symObjAddr: 0x5F4, symBinAddr: 0x21A70, symSize: 0xC }
-  - { offset: 0xE597F, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation request]', symObjAddr: 0x600, symBinAddr: 0x21A7C, symSize: 0x10 }
-  - { offset: 0xE59B6, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setRequest:]', symObjAddr: 0x610, symBinAddr: 0x21A8C, symSize: 0x14 }
-  - { offset: 0xE59F7, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation identity]', symObjAddr: 0x624, symBinAddr: 0x21AA0, symSize: 0x10 }
-  - { offset: 0xE5A2E, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setIdentity:]', symObjAddr: 0x634, symBinAddr: 0x21AB0, symSize: 0x14 }
-  - { offset: 0xE5A6F, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation .cxx_destruct]', symObjAddr: 0x648, symBinAddr: 0x21AC4, symSize: 0x54 }
-  - { offset: 0xE5EF6, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation initWithURLString:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21B18, symSize: 0xA8 }
-  - { offset: 0xE6017, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation initWithURLString:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21B18, symSize: 0xA8 }
-  - { offset: 0xE606E, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation handleSuccess:]', symObjAddr: 0xA8, symBinAddr: 0x21BC0, symSize: 0x58 }
-  - { offset: 0xE60BD, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation handleFailure:]', symObjAddr: 0x100, symBinAddr: 0x21C18, symSize: 0x58 }
-  - { offset: 0xE610C, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation start]', symObjAddr: 0x158, symBinAddr: 0x21C70, symSize: 0x108 }
-  - { offset: 0xE613F, size: 0x8, addend: 0x0, symName: '___28-[SMTAIMediaOperation start]_block_invoke', symObjAddr: 0x260, symBinAddr: 0x21D78, symSize: 0x2C }
-  - { offset: 0xE618E, size: 0x8, addend: 0x0, symName: '___28-[SMTAIMediaOperation start]_block_invoke.4', symObjAddr: 0x29C, symBinAddr: 0x21DA4, symSize: 0x2C }
-  - { offset: 0xE61DD, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation completion]', symObjAddr: 0x2C8, symBinAddr: 0x21DD0, symSize: 0x10 }
-  - { offset: 0xE6214, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation setCompletion:]', symObjAddr: 0x2D8, symBinAddr: 0x21DE0, symSize: 0xC }
-  - { offset: 0xE6253, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation URLString]', symObjAddr: 0x2E4, symBinAddr: 0x21DEC, symSize: 0x10 }
-  - { offset: 0xE628A, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation setURLString:]', symObjAddr: 0x2F4, symBinAddr: 0x21DFC, symSize: 0xC }
-  - { offset: 0xE62C9, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation .cxx_destruct]', symObjAddr: 0x300, symBinAddr: 0x21E08, symSize: 0x40 }
-  - { offset: 0xE648F, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFData:]', symObjAddr: 0x0, symBinAddr: 0x21E48, symSize: 0x1C }
-  - { offset: 0xE64B1, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFData:]', symObjAddr: 0x0, symBinAddr: 0x21E48, symSize: 0x1C }
-  - { offset: 0xE6527, size: 0x8, addend: 0x0, symName: _animatedImageWithAnimatedGIFReleasingImageSource, symObjAddr: 0x1C, symBinAddr: 0x21E64, symSize: 0x44 }
-  - { offset: 0xE658D, size: 0x8, addend: 0x0, symName: _animatedImageWithAnimatedGIFImageSource, symObjAddr: 0x7C, symBinAddr: 0x21EC4, symSize: 0x264 }
-  - { offset: 0xE67EE, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFURL:]', symObjAddr: 0x60, symBinAddr: 0x21EA8, symSize: 0x1C }
-  - { offset: 0xE6A1B, size: 0x8, addend: 0x0, symName: _frameArray, symObjAddr: 0x2E0, symBinAddr: 0x22128, symSize: 0x1B0 }
-  - { offset: 0xE6CE7, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]', symObjAddr: 0x0, symBinAddr: 0x222D8, symSize: 0xBC }
-  - { offset: 0xE6D44, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]', symObjAddr: 0x0, symBinAddr: 0x222D8, symSize: 0xBC }
-  - { offset: 0xE6DCD, size: 0x8, addend: 0x0, symName: '___57-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]_block_invoke', symObjAddr: 0xBC, symBinAddr: 0x22394, symSize: 0x308 }
-  - { offset: 0xE6E62, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView play]', symObjAddr: 0x424, symBinAddr: 0x2269C, symSize: 0x3C }
-  - { offset: 0xE6E95, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView pause]', symObjAddr: 0x460, symBinAddr: 0x226D8, symSize: 0x80 }
-  - { offset: 0xE6EC8, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView sliderAction:]', symObjAddr: 0x4E0, symBinAddr: 0x22758, symSize: 0x118 }
-  - { offset: 0xE6F56, size: 0x8, addend: 0x0, symName: '___30-[SMTPlayerView sliderAction:]_block_invoke', symObjAddr: 0x5F8, symBinAddr: 0x22870, symSize: 0x14 }
-  - { offset: 0xE6F97, size: 0x8, addend: 0x0, symName: '___30-[SMTPlayerView sliderAction:]_block_invoke_2', symObjAddr: 0x60C, symBinAddr: 0x22884, symSize: 0x4 }
-  - { offset: 0xE6FBE, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView addPlayerObserver]', symObjAddr: 0x610, symBinAddr: 0x22888, symSize: 0xA8 }
-  - { offset: 0xE6FF1, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView removePlayerObserver]', symObjAddr: 0x6B8, symBinAddr: 0x22930, symSize: 0xA4 }
-  - { offset: 0xE703F, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView playerItemDidReachEnd:]', symObjAddr: 0x75C, symBinAddr: 0x229D4, symSize: 0xC0 }
-  - { offset: 0xE70B1, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView player]', symObjAddr: 0x81C, symBinAddr: 0x22A94, symSize: 0x10 }
-  - { offset: 0xE70E8, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setPlayer:]', symObjAddr: 0x82C, symBinAddr: 0x22AA4, symSize: 0x14 }
-  - { offset: 0xE7129, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView playerLayer]', symObjAddr: 0x840, symBinAddr: 0x22AB8, symSize: 0x10 }
-  - { offset: 0xE7160, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setPlayerLayer:]', symObjAddr: 0x850, symBinAddr: 0x22AC8, symSize: 0x14 }
-  - { offset: 0xE71A1, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView .cxx_destruct]', symObjAddr: 0x864, symBinAddr: 0x22ADC, symSize: 0x40 }
-  - { offset: 0xE740A, size: 0x8, addend: 0x0, symName: '+[SMTAIJSONParameterEncoder encode:params:]', symObjAddr: 0x0, symBinAddr: 0x22B1C, symSize: 0xB4 }
-  - { offset: 0xE7418, size: 0x8, addend: 0x0, symName: '+[SMTAIJSONParameterEncoder encode:params:]', symObjAddr: 0x0, symBinAddr: 0x22B1C, symSize: 0xB4 }
-  - { offset: 0xE7503, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation init]', symObjAddr: 0x0, symBinAddr: 0x22BD0, symSize: 0xA4 }
-  - { offset: 0xE7562, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation init]', symObjAddr: 0x0, symBinAddr: 0x22BD0, symSize: 0xA4 }
-  - { offset: 0xE7599, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation cancel]', symObjAddr: 0xA4, symBinAddr: 0x22C74, symSize: 0x5C }
-  - { offset: 0xE75CC, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation service]', symObjAddr: 0x100, symBinAddr: 0x22CD0, symSize: 0x10 }
-  - { offset: 0xE7603, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation setService:]', symObjAddr: 0x110, symBinAddr: 0x22CE0, symSize: 0x14 }
-  - { offset: 0xE7644, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation .cxx_destruct]', symObjAddr: 0x124, symBinAddr: 0x22CF4, symSize: 0x14 }
-  - { offset: 0xE76EB, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x22D08, symSize: 0x30 }
-  - { offset: 0xE76FE, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x22D08, symSize: 0x30 }
-  - { offset: 0xE7728, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xA6E0, symBinAddr: 0x55EF8, symSize: 0x0 }
-  - { offset: 0xE773E, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xA6E8, symBinAddr: 0x55F00, symSize: 0x0 }
-  - { offset: 0xE77FE, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance].cold.1', symObjAddr: 0x508, symBinAddr: 0x28C84, symSize: 0x14 }
-  - { offset: 0xE781A, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance].cold.1', symObjAddr: 0x508, symBinAddr: 0x28C84, symSize: 0x14 }
-  - { offset: 0xE782C, size: 0x8, addend: 0x0, symName: '___34+[SMTAIPreferences sharedInstance]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x22D38, symSize: 0x30 }
-  - { offset: 0xE7853, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setSuitName:]', symObjAddr: 0x60, symBinAddr: 0x22D68, symSize: 0x104 }
-  - { offset: 0xE7896, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences sharedUserDefault]', symObjAddr: 0x164, symBinAddr: 0x22E6C, symSize: 0x4C }
-  - { offset: 0xE78CD, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getCustomObjectForKey:]', symObjAddr: 0x1B0, symBinAddr: 0x22EB8, symSize: 0xA0 }
-  - { offset: 0xE7934, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setCustomObject:forKey:]', symObjAddr: 0x250, symBinAddr: 0x22F58, symSize: 0xB0 }
-  - { offset: 0xE79A7, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getStringForKey:]', symObjAddr: 0x300, symBinAddr: 0x23008, symSize: 0xAC }
-  - { offset: 0xE7A0E, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences putString:forKey:]', symObjAddr: 0x3AC, symBinAddr: 0x230B4, symSize: 0x88 }
-  - { offset: 0xE7A71, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getPreferenceKey:]', symObjAddr: 0x434, symBinAddr: 0x2313C, symSize: 0x38 }
-  - { offset: 0xE7AB4, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getObjectForKey:]', symObjAddr: 0x46C, symBinAddr: 0x23174, symSize: 0x84 }
-  - { offset: 0xE7B1B, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setSharedUserDefault:]', symObjAddr: 0x4F0, symBinAddr: 0x231F8, symSize: 0xC }
-  - { offset: 0xE7B5C, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences .cxx_destruct]', symObjAddr: 0x4FC, symBinAddr: 0x23204, symSize: 0xC }
-  - { offset: 0xE7C94, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter init]', symObjAddr: 0x0, symBinAddr: 0x23210, symSize: 0x64 }
-  - { offset: 0xE7D53, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter init]', symObjAddr: 0x0, symBinAddr: 0x23210, symSize: 0x64 }
-  - { offset: 0xE7D8A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter getFilterDictionary]', symObjAddr: 0x64, symBinAddr: 0x23274, symSize: 0x128 }
-  - { offset: 0xE7DD1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setDirection:]', symObjAddr: 0x18C, symBinAddr: 0x2339C, symSize: 0xA8 }
-  - { offset: 0xE7E14, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setDirectionType:]', symObjAddr: 0x234, symBinAddr: 0x23444, symSize: 0x28 }
-  - { offset: 0xE7E55, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter direction]', symObjAddr: 0x25C, symBinAddr: 0x2346C, symSize: 0x8 }
-  - { offset: 0xE7E8C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter directionType]', symObjAddr: 0x264, symBinAddr: 0x23474, symSize: 0x8 }
-  - { offset: 0xE7EC3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter limit]', symObjAddr: 0x26C, symBinAddr: 0x2347C, symSize: 0x8 }
-  - { offset: 0xE7EFA, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setLimit:]', symObjAddr: 0x274, symBinAddr: 0x23484, symSize: 0x8 }
-  - { offset: 0xE7F37, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter timestamp]', symObjAddr: 0x27C, symBinAddr: 0x2348C, symSize: 0x8 }
-  - { offset: 0xE7F6E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setTimestamp:]', symObjAddr: 0x284, symBinAddr: 0x23494, symSize: 0x8 }
-  - { offset: 0xE7FAD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter .cxx_destruct]', symObjAddr: 0x28C, symBinAddr: 0x2349C, symSize: 0x30 }
-  - { offset: 0xE8089, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxMessages]', symObjAddr: 0x0, symBinAddr: 0x234CC, symSize: 0x8 }
-  - { offset: 0xE8100, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxMessages]', symObjAddr: 0x0, symBinAddr: 0x234CC, symSize: 0x8 }
-  - { offset: 0xE8137, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setInboxMessages:]', symObjAddr: 0x8, symBinAddr: 0x234D4, symSize: 0xC }
-  - { offset: 0xE8178, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData userIdentity]', symObjAddr: 0x14, symBinAddr: 0x234E0, symSize: 0x8 }
-  - { offset: 0xE81AF, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setUserIdentity:]', symObjAddr: 0x1C, symBinAddr: 0x234E8, symSize: 0xC }
-  - { offset: 0xE81F0, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxDeleted]', symObjAddr: 0x28, symBinAddr: 0x234F4, symSize: 0x8 }
-  - { offset: 0xE8227, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setInboxDeleted:]', symObjAddr: 0x30, symBinAddr: 0x234FC, symSize: 0xC }
-  - { offset: 0xE8268, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData .cxx_destruct]', symObjAddr: 0x3C, symBinAddr: 0x23508, symSize: 0x3C }
-  - { offset: 0xE82E6, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURLWithAppGroup:]', symObjAddr: 0x0, symBinAddr: 0x23544, symSize: 0x70 }
-  - { offset: 0xE8318, size: 0x8, addend: 0x0, symName: __appGroup, symObjAddr: 0xC108, symBinAddr: 0x55F08, symSize: 0x0 }
-  - { offset: 0xE8329, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURLWithAppGroup:]', symObjAddr: 0x0, symBinAddr: 0x23544, symSize: 0x70 }
-  - { offset: 0xE8370, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appInboxURL]', symObjAddr: 0x70, symBinAddr: 0x235B4, symSize: 0xC4 }
-  - { offset: 0xE83C7, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURL]', symObjAddr: 0x134, symBinAddr: 0x23678, symSize: 0xA8 }
-  - { offset: 0xE840E, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility saveInboxAttachment:]', symObjAddr: 0x1DC, symBinAddr: 0x23720, symSize: 0x1B8 }
-  - { offset: 0xE84B4, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility saveInboxAttachment:forTrid:]', symObjAddr: 0x394, symBinAddr: 0x238D8, symSize: 0x278 }
-  - { offset: 0xE8596, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility fullURLForRelativeMediaPath:]', symObjAddr: 0x60C, symBinAddr: 0x23B50, symSize: 0x9C }
-  - { offset: 0xE85ED, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility removeInboxAttachments]', symObjAddr: 0x6A8, symBinAddr: 0x23BEC, symSize: 0x74 }
-  - { offset: 0xE8624, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility removeItemAtPath:]', symObjAddr: 0x71C, symBinAddr: 0x23C60, symSize: 0xCC }
-  - { offset: 0xE8687, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility deleteMediaFoldersForTrids:]', symObjAddr: 0x7E8, symBinAddr: 0x23D2C, symSize: 0x394 }
-  - { offset: 0xE876B, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility applicationDocumentsDirectory]', symObjAddr: 0xB7C, symBinAddr: 0x240C0, symSize: 0x68 }
-  - { offset: 0xE87F4, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility createDirectory:atFilePath:]', symObjAddr: 0xBE4, symBinAddr: 0x24128, symSize: 0x170 }
-  - { offset: 0xE8907, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService initWithConfig:]', symObjAddr: 0x0, symBinAddr: 0x24298, symSize: 0x34 }
-  - { offset: 0xE8955, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService initWithConfig:]', symObjAddr: 0x0, symBinAddr: 0x24298, symSize: 0x34 }
-  - { offset: 0xE8998, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService makeDownloadRequestFor:success:failure:]', symObjAddr: 0x34, symBinAddr: 0x242CC, symSize: 0x294 }
-  - { offset: 0xE8A49, size: 0x8, addend: 0x0, symName: '___62-[SMTAIBackendService makeDownloadRequestFor:success:failure:]_block_invoke', symObjAddr: 0x2C8, symBinAddr: 0x24560, symSize: 0xC }
-  - { offset: 0xE8A9E, size: 0x8, addend: 0x0, symName: '___62-[SMTAIBackendService makeDownloadRequestFor:success:failure:]_block_invoke.1', symObjAddr: 0x2EC, symBinAddr: 0x2456C, symSize: 0x10 }
-  - { offset: 0xE8B0D, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService cancel]', symObjAddr: 0x2FC, symBinAddr: 0x2457C, symSize: 0x30 }
-  - { offset: 0xE8B40, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService service]', symObjAddr: 0x32C, symBinAddr: 0x245AC, symSize: 0x8 }
-  - { offset: 0xE8B77, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService setService:]', symObjAddr: 0x334, symBinAddr: 0x245B4, symSize: 0xC }
-  - { offset: 0xE8BB8, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService .cxx_destruct]', symObjAddr: 0x340, symBinAddr: 0x245C0, symSize: 0xC }
-  - { offset: 0xE8E68, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage isMediaDownloadInProgressForKey:]', symObjAddr: 0x0, symBinAddr: 0x245CC, symSize: 0x8C }
-  - { offset: 0xE919A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage isMediaDownloadInProgressForKey:]', symObjAddr: 0x0, symBinAddr: 0x245CC, symSize: 0x8C }
-  - { offset: 0xE91F1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage setMediaDownloadInProgressValue:forKey:]', symObjAddr: 0x8C, symBinAddr: 0x24658, symSize: 0xD4 }
-  - { offset: 0xE9244, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage updatePayloadWithMediaURLPath:]', symObjAddr: 0x160, symBinAddr: 0x2472C, symSize: 0x190 }
-  - { offset: 0xE92BD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage updatePayloadWithMediaURLPath:forCarouselAtIndex:]', symObjAddr: 0x2F0, symBinAddr: 0x248BC, symSize: 0x1C8 }
-  - { offset: 0xE93C3, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility weekdayStringFromDay:]', symObjAddr: 0x0, symBinAddr: 0x24A84, symSize: 0x28 }
-  - { offset: 0xE9425, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility weekdayStringFromDay:]', symObjAddr: 0x0, symBinAddr: 0x24A84, symSize: 0x28 }
-  - { offset: 0xE9466, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility timeIntervalSinceDate:]', symObjAddr: 0x28, symBinAddr: 0x24AAC, symSize: 0xA4 }
-  - { offset: 0xE94E9, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility utcTimeIntervalSinceDate:]', symObjAddr: 0xCC, symBinAddr: 0x24B50, symSize: 0xA4 }
-  - { offset: 0xE956C, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateComponentsFromDate:]', symObjAddr: 0x170, symBinAddr: 0x24BF4, symSize: 0x7C }
-  - { offset: 0xE95BF, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateStringFromDate:]', symObjAddr: 0x1EC, symBinAddr: 0x24C70, symSize: 0xB0 }
-  - { offset: 0xE9612, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateFromString:]', symObjAddr: 0x29C, symBinAddr: 0x24D20, symSize: 0xB0 }
-  - { offset: 0xE9665, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateFromNonUTCString:]', symObjAddr: 0x34C, symBinAddr: 0x24DD0, symSize: 0xB0 }
-  - { offset: 0xE96B8, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfDate:isBetweenDate:andDate:]', symObjAddr: 0x3FC, symBinAddr: 0x24E80, symSize: 0xA0 }
-  - { offset: 0xE972B, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfTimeOfDate:isBetweenTime:andTime:]', symObjAddr: 0x49C, symBinAddr: 0x24F20, symSize: 0x1F0 }
-  - { offset: 0xE982E, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfDate:hasPassedInterval:]', symObjAddr: 0x68C, symBinAddr: 0x25110, symSize: 0x88 }
-  - { offset: 0xE98A0, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility timeIntervalStringFromDate:]', symObjAddr: 0x714, symBinAddr: 0x25198, symSize: 0x174 }
-  - { offset: 0xE9953, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility getGMTTime]', symObjAddr: 0x888, symBinAddr: 0x2530C, symSize: 0x84 }
-  - { offset: 0xE9A32, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getSmartechAppGroup]', symObjAddr: 0x0, symBinAddr: 0x25390, symSize: 0xA0 }
-  - { offset: 0xE9A45, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getSmartechAppGroup]', symObjAddr: 0x0, symBinAddr: 0x25390, symSize: 0xA0 }
-  - { offset: 0xE9A98, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager setAppInboxClickLink:]', symObjAddr: 0xA0, symBinAddr: 0x25430, symSize: 0x60 }
-  - { offset: 0xE9AD7, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxClickLink]', symObjAddr: 0x100, symBinAddr: 0x25490, symSize: 0x58 }
-  - { offset: 0xE9B0A, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager setAppInboxVersion:]', symObjAddr: 0x158, symBinAddr: 0x254E8, symSize: 0x60 }
-  - { offset: 0xE9B49, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxVersion]', symObjAddr: 0x1B8, symBinAddr: 0x25548, symSize: 0x58 }
-  - { offset: 0xE9B7C, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager storeAppInboxSettings:]', symObjAddr: 0x210, symBinAddr: 0x255A0, symSize: 0x60 }
-  - { offset: 0xE9BBB, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxSettings]', symObjAddr: 0x270, symBinAddr: 0x25600, symSize: 0x58 }
-  - { offset: 0xE9BEE, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getMediaCachingSize]', symObjAddr: 0x2C8, symBinAddr: 0x25658, symSize: 0x8 }
-  - { offset: 0xE9C92, size: 0x8, addend: 0x0, symName: '+[SMTAIBackendConfiguration sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x25660, symSize: 0x74 }
-  - { offset: 0xE9CA0, size: 0x8, addend: 0x0, symName: '+[SMTAIBackendConfiguration sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x25660, symSize: 0x74 }
-  - { offset: 0xE9CCA, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xA7B0, symBinAddr: 0x55F10, symSize: 0x0 }
-  - { offset: 0xE9CE0, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xA7B8, symBinAddr: 0x55F18, symSize: 0x0 }
-  - { offset: 0xE9E68, size: 0x8, addend: 0x0, symName: '___43+[SMTAIBackendConfiguration sharedInstance]_block_invoke', symObjAddr: 0x74, symBinAddr: 0x256D4, symSize: 0x2C }
-  - { offset: 0xE9EA7, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration init]', symObjAddr: 0xA0, symBinAddr: 0x25700, symSize: 0x34 }
-  - { offset: 0xE9EDE, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration validateURL:forURLType:]', symObjAddr: 0xD4, symBinAddr: 0x25734, symSize: 0xB4 }
-  - { offset: 0xE9F2D, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseInboxUrl]', symObjAddr: 0x188, symBinAddr: 0x257E8, symSize: 0x8 }
-  - { offset: 0xE9F64, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseInboxUrl:]', symObjAddr: 0x190, symBinAddr: 0x257F0, symSize: 0x8 }
-  - { offset: 0xE9FA3, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseAppInitURL]', symObjAddr: 0x198, symBinAddr: 0x257F8, symSize: 0x8 }
-  - { offset: 0xE9FDA, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseAppInitURL:]', symObjAddr: 0x1A0, symBinAddr: 0x25800, symSize: 0x8 }
-  - { offset: 0xEA019, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseTrackAppActUrl]', symObjAddr: 0x1A8, symBinAddr: 0x25808, symSize: 0x8 }
-  - { offset: 0xEA050, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseTrackAppActUrl:]', symObjAddr: 0x1B0, symBinAddr: 0x25810, symSize: 0x8 }
-  - { offset: 0xEA08F, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration basePushAmpUrl]', symObjAddr: 0x1B8, symBinAddr: 0x25818, symSize: 0x8 }
-  - { offset: 0xEA0C6, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBasePushAmpUrl:]', symObjAddr: 0x1C0, symBinAddr: 0x25820, symSize: 0x8 }
-  - { offset: 0xEA105, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseInAppUrl]', symObjAddr: 0x1C8, symBinAddr: 0x25828, symSize: 0x8 }
-  - { offset: 0xEA13C, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseInAppUrl:]', symObjAddr: 0x1D0, symBinAddr: 0x25830, symSize: 0x8 }
-  - { offset: 0xEA17B, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration listSegmentUrl]', symObjAddr: 0x1D8, symBinAddr: 0x25838, symSize: 0x8 }
-  - { offset: 0xEA1B2, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setListSegmentUrl:]', symObjAddr: 0x1E0, symBinAddr: 0x25840, symSize: 0x8 }
-  - { offset: 0xEA1F1, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration .cxx_destruct]', symObjAddr: 0x1E8, symBinAddr: 0x25848, symSize: 0x60 }
-  - { offset: 0xEA33F, size: 0x8, addend: 0x0, symName: '-[SMTGifCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x258A8, symSize: 0x70 }
-  - { offset: 0xEA4C8, size: 0x8, addend: 0x0, symName: '-[SMTGifCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x258A8, symSize: 0x70 }
-  - { offset: 0xEA4FB, size: 0x8, addend: 0x0, symName: '-[SMTGifCell configureCellWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x70, symBinAddr: 0x25918, symSize: 0xF0 }
-  - { offset: 0xEA55E, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x160, symBinAddr: 0x25A08, symSize: 0x28C }
-  - { offset: 0xEA5F9, size: 0x8, addend: 0x0, symName: '___79-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x3EC, symBinAddr: 0x25C94, symSize: 0xF0 }
-  - { offset: 0xEA6AB, size: 0x8, addend: 0x0, symName: '___79-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2', symObjAddr: 0x4DC, symBinAddr: 0x25D84, symSize: 0x210 }
-  - { offset: 0xEA748, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setStaticImageFromPath:]', symObjAddr: 0x7BC, symBinAddr: 0x25F94, symSize: 0xD8 }
-  - { offset: 0xEA79B, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setPlayingImageFromPath:]', symObjAddr: 0x894, symBinAddr: 0x2606C, symSize: 0x88 }
-  - { offset: 0xEA7FE, size: 0x8, addend: 0x0, symName: '-[SMTGifCell play]', symObjAddr: 0x91C, symBinAddr: 0x260F4, symSize: 0x98 }
-  - { offset: 0xEA831, size: 0x8, addend: 0x0, symName: '-[SMTGifCell pause]', symObjAddr: 0x9B4, symBinAddr: 0x2618C, symSize: 0x68 }
-  - { offset: 0xEA864, size: 0x8, addend: 0x0, symName: '-[SMTGifCell animatedImageView]', symObjAddr: 0xA1C, symBinAddr: 0x261F4, symSize: 0x20 }
-  - { offset: 0xEA89B, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setAnimatedImageView:]', symObjAddr: 0xA3C, symBinAddr: 0x26214, symSize: 0x14 }
-  - { offset: 0xEA8DC, size: 0x8, addend: 0x0, symName: '-[SMTGifCell mediaURLPath]', symObjAddr: 0xA50, symBinAddr: 0x26228, symSize: 0x10 }
-  - { offset: 0xEA913, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setMediaURLPath:]', symObjAddr: 0xA60, symBinAddr: 0x26238, symSize: 0x14 }
-  - { offset: 0xEA954, size: 0x8, addend: 0x0, symName: '-[SMTGifCell .cxx_destruct]', symObjAddr: 0xA74, symBinAddr: 0x2624C, symSize: 0x3C }
-  - { offset: 0xEAE7E, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest initWithUserIdentity:andInfo:]', symObjAddr: 0x0, symBinAddr: 0x26288, symSize: 0x90 }
-  - { offset: 0xEAEBC, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest initWithUserIdentity:andInfo:]', symObjAddr: 0x0, symBinAddr: 0x26288, symSize: 0x90 }
-  - { offset: 0xEAF13, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest baseURLType]', symObjAddr: 0x90, symBinAddr: 0x26318, symSize: 0x8 }
-  - { offset: 0xEAF46, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest endpoint]', symObjAddr: 0x98, symBinAddr: 0x26320, symSize: 0xC }
-  - { offset: 0xEAF79, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest URLParameters]', symObjAddr: 0xA4, symBinAddr: 0x2632C, symSize: 0x10C }
-  - { offset: 0xEAFB0, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest bodyParameters]', symObjAddr: 0x1B0, symBinAddr: 0x26438, symSize: 0xD8 }
-  - { offset: 0xEAFF7, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest userIdentity]', symObjAddr: 0x288, symBinAddr: 0x26510, symSize: 0x10 }
-  - { offset: 0xEB02E, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest setUserIdentity:]', symObjAddr: 0x298, symBinAddr: 0x26520, symSize: 0xC }
-  - { offset: 0xEB06D, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest .cxx_destruct]', symObjAddr: 0x2A4, symBinAddr: 0x2652C, symSize: 0x14 }
-  - { offset: 0xEB136, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView initWithNib]', symObjAddr: 0x0, symBinAddr: 0x26540, symSize: 0xCC }
-  - { offset: 0xEB59E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView initWithNib]', symObjAddr: 0x0, symBinAddr: 0x26540, symSize: 0xCC }
-  - { offset: 0xEB63F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView loadWithSuperView:]', symObjAddr: 0xCC, symBinAddr: 0x2660C, symSize: 0x20C }
-  - { offset: 0xEB699, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView settingUpTheConstraintsOfCarouselView:onSuperView:]', symObjAddr: 0x2D8, symBinAddr: 0x26818, symSize: 0x1B8 }
-  - { offset: 0xEB72C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView didReceiveCarouselButtonResponse:]', symObjAddr: 0x490, symBinAddr: 0x269D0, symSize: 0x6C }
-  - { offset: 0xEB76F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x4FC, symBinAddr: 0x26A3C, symSize: 0x2BC }
-  - { offset: 0xEB86B, size: 0x8, addend: 0x0, symName: '___105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x7B8, symBinAddr: 0x26CF8, symSize: 0x34 }
-  - { offset: 0xEB8AA, size: 0x8, addend: 0x0, symName: '___105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke.10', symObjAddr: 0x7FC, symBinAddr: 0x26D2C, symSize: 0x34 }
-  - { offset: 0xEB8E9, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView numberOfSectionsInCollectionView:]', symObjAddr: 0x830, symBinAddr: 0x26D60, symSize: 0x8 }
-  - { offset: 0xEB928, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:numberOfItemsInSection:]', symObjAddr: 0x838, symBinAddr: 0x26D68, symSize: 0x64 }
-  - { offset: 0xEB977, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:cellForItemAtIndexPath:]', symObjAddr: 0x89C, symBinAddr: 0x26DCC, symSize: 0x16C }
-  - { offset: 0xEB9EE, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:layout:sizeForItemAtIndexPath:]', symObjAddr: 0xA08, symBinAddr: 0x26F38, symSize: 0xC8 }
-  - { offset: 0xEBA69, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:didSelectItemAtIndexPath:]', symObjAddr: 0xAD0, symBinAddr: 0x27000, symSize: 0x90 }
-  - { offset: 0xEBAD8, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView nextItem]', symObjAddr: 0xB60, symBinAddr: 0x27090, symSize: 0x11C }
-  - { offset: 0xEBB0B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeScrollNextItem]', symObjAddr: 0xC7C, symBinAddr: 0x271AC, symSize: 0x1D4 }
-  - { offset: 0xEBB65, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitScrollNextItem]', symObjAddr: 0xE50, symBinAddr: 0x27380, symSize: 0x294 }
-  - { offset: 0xEBBF6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView previousItem]', symObjAddr: 0x10E4, symBinAddr: 0x27614, symSize: 0x11C }
-  - { offset: 0xEBC2A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeScrollPreviousItem]', symObjAddr: 0x1200, symBinAddr: 0x27730, symSize: 0x1BC }
-  - { offset: 0xEBC87, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitScrollPreviousItem]', symObjAddr: 0x13BC, symBinAddr: 0x278EC, symSize: 0x27C }
-  - { offset: 0xEBD1E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView configureCarouselCell:atCarosuelIndex:]', symObjAddr: 0x1638, symBinAddr: 0x27B68, symSize: 0xE8 }
-  - { offset: 0xEBD85, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:layout:minimumLineSpacingForSectionAtIndex:]', symObjAddr: 0x1720, symBinAddr: 0x27C50, symSize: 0x14 }
-  - { offset: 0xEBDE0, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView]', symObjAddr: 0x1734, symBinAddr: 0x27C64, symSize: 0x20 }
-  - { offset: 0xEBE17, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setCollectionView:]', symObjAddr: 0x1754, symBinAddr: 0x27C84, symSize: 0x14 }
-  - { offset: 0xEBE58, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView carouselImages]', symObjAddr: 0x1768, symBinAddr: 0x27C98, symSize: 0x20 }
-  - { offset: 0xEBE8F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setCarouselImages:]', symObjAddr: 0x1788, symBinAddr: 0x27CB8, symSize: 0x14 }
-  - { offset: 0xEBED0, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView currentIndex]', symObjAddr: 0x179C, symBinAddr: 0x27CCC, symSize: 0x10 }
-  - { offset: 0xEBF07, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView payload]', symObjAddr: 0x17AC, symBinAddr: 0x27CDC, symSize: 0x10 }
-  - { offset: 0xEBF3E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPayload:]', symObjAddr: 0x17BC, symBinAddr: 0x27CEC, symSize: 0x14 }
-  - { offset: 0xEBF7F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView appInboxEvent]', symObjAddr: 0x17D0, symBinAddr: 0x27D00, symSize: 0x20 }
-  - { offset: 0xEBFB6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setAppInboxEvent:]', symObjAddr: 0x17F0, symBinAddr: 0x27D20, symSize: 0x14 }
-  - { offset: 0xEBFF7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView mediaDownloadQueue]', symObjAddr: 0x1804, symBinAddr: 0x27D34, symSize: 0x20 }
-  - { offset: 0xEC02E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setMediaDownloadQueue:]', symObjAddr: 0x1824, symBinAddr: 0x27D54, symSize: 0x14 }
-  - { offset: 0xEC06F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView placeholderImageName]', symObjAddr: 0x1838, symBinAddr: 0x27D68, symSize: 0x20 }
-  - { offset: 0xEC0A6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPlaceholderImageName:]', symObjAddr: 0x1858, symBinAddr: 0x27D88, symSize: 0x14 }
-  - { offset: 0xEC0E7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView notificationType]', symObjAddr: 0x186C, symBinAddr: 0x27D9C, symSize: 0x20 }
-  - { offset: 0xEC11E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setNotificationType:]', symObjAddr: 0x188C, symBinAddr: 0x27DBC, symSize: 0x14 }
-  - { offset: 0xEC15F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitIndex]', symObjAddr: 0x18A0, symBinAddr: 0x27DD0, symSize: 0x10 }
-  - { offset: 0xEC196, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPotraitIndex:]', symObjAddr: 0x18B0, symBinAddr: 0x27DE0, symSize: 0x10 }
-  - { offset: 0xEC1D3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeIndex]', symObjAddr: 0x18C0, symBinAddr: 0x27DF0, symSize: 0x10 }
-  - { offset: 0xEC20A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setLandscapeIndex:]', symObjAddr: 0x18D0, symBinAddr: 0x27E00, symSize: 0x10 }
-  - { offset: 0xEC247, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView dispalyCount]', symObjAddr: 0x18E0, symBinAddr: 0x27E10, symSize: 0x10 }
-  - { offset: 0xEC27E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setDispalyCount:]', symObjAddr: 0x18F0, symBinAddr: 0x27E20, symSize: 0x10 }
-  - { offset: 0xEC2BB, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView .cxx_destruct]', symObjAddr: 0x1900, symBinAddr: 0x27E30, symSize: 0x8C }
-  - { offset: 0xEC543, size: 0x8, addend: 0x0, symName: _SMTAIHTTPMethodString, symObjAddr: 0x0, symBinAddr: 0x27EBC, symSize: 0x24 }
-  - { offset: 0xEC572, size: 0x8, addend: 0x0, symName: _SMTAIHTTPMethodString, symObjAddr: 0x0, symBinAddr: 0x27EBC, symSize: 0x24 }
-  - { offset: 0xEC5DB, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x27EE0, symSize: 0x118 }
-  - { offset: 0xEC6B9, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x27EE0, symSize: 0x118 }
-  - { offset: 0xEC6EC, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController mapCategoryArray]', symObjAddr: 0x118, symBinAddr: 0x27FF8, symSize: 0x1F4 }
-  - { offset: 0xEC74D, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController filterCategoryArray]', symObjAddr: 0x30C, symBinAddr: 0x281EC, symSize: 0xB4 }
-  - { offset: 0xEC794, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController btnCancelClicked:]', symObjAddr: 0x3C0, symBinAddr: 0x282A0, symSize: 0xC }
-  - { offset: 0xEC7D1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController btnApplyClicked:]', symObjAddr: 0x3CC, symBinAddr: 0x282AC, symSize: 0x54 }
-  - { offset: 0xEC810, size: 0x8, addend: 0x0, symName: '___53-[SMTAppInboxCategoryViewController btnApplyClicked:]_block_invoke', symObjAddr: 0x420, symBinAddr: 0x28300, symSize: 0x74 }
-  - { offset: 0xEC84F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController numberOfSectionsInTableView:]', symObjAddr: 0x4A4, symBinAddr: 0x28374, symSize: 0x8 }
-  - { offset: 0xEC88E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:numberOfRowsInSection:]', symObjAddr: 0x4AC, symBinAddr: 0x2837C, symSize: 0x3C }
-  - { offset: 0xEC8DD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:cellForRowAtIndexPath:]', symObjAddr: 0x4E8, symBinAddr: 0x283B8, symSize: 0x1A4 }
-  - { offset: 0xEC954, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:didSelectRowAtIndexPath:]', symObjAddr: 0x68C, symBinAddr: 0x2855C, symSize: 0xB0 }
-  - { offset: 0xEC9B3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController bgView]', symObjAddr: 0x73C, symBinAddr: 0x2860C, symSize: 0x20 }
-  - { offset: 0xEC9EA, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setBgView:]', symObjAddr: 0x75C, symBinAddr: 0x2862C, symSize: 0x14 }
-  - { offset: 0xECA2B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController categoryTableView]', symObjAddr: 0x770, symBinAddr: 0x28640, symSize: 0x20 }
-  - { offset: 0xECA62, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setCategoryTableView:]', symObjAddr: 0x790, symBinAddr: 0x28660, symSize: 0x14 }
-  - { offset: 0xECAA3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController appInboxCategoryArray]', symObjAddr: 0x7A4, symBinAddr: 0x28674, symSize: 0x10 }
-  - { offset: 0xECADA, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setAppInboxCategoryArray:]', symObjAddr: 0x7B4, symBinAddr: 0x28684, symSize: 0x14 }
-  - { offset: 0xECB1B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController categoryFilterDelegate]', symObjAddr: 0x7C8, symBinAddr: 0x28698, symSize: 0x20 }
-  - { offset: 0xECB52, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setCategoryFilterDelegate:]', symObjAddr: 0x7E8, symBinAddr: 0x286B8, symSize: 0x14 }
-  - { offset: 0xECB93, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController selectedCategoryArray]', symObjAddr: 0x7FC, symBinAddr: 0x286CC, symSize: 0x10 }
-  - { offset: 0xECBCA, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setSelectedCategoryArray:]', symObjAddr: 0x80C, symBinAddr: 0x286DC, symSize: 0x14 }
-  - { offset: 0xECC0B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController .cxx_destruct]', symObjAddr: 0x820, symBinAddr: 0x286F0, symSize: 0x70 }
+  - { offset: 0xE1D3B, size: 0x8, addend: 0x0, symName: '___48-[SmartechAppInbox performInitialSetupWithData:]_block_invoke_2', symObjAddr: 0x6F8, symBinAddr: 0x1DEBC, symSize: 0x154 }
+  - { offset: 0xE1D8A, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAllAppInboxMessages:]', symObjAddr: 0x85C, symBinAddr: 0x1E010, symSize: 0x124 }
+  - { offset: 0xE1DCD, size: 0x8, addend: 0x0, symName: '___43-[SmartechAppInbox getAllAppInboxMessages:]_block_invoke', symObjAddr: 0x980, symBinAddr: 0x1E134, symSize: 0x64 }
+  - { offset: 0xE1E28, size: 0x8, addend: 0x0, symName: '___43-[SmartechAppInbox getAllAppInboxMessages:]_block_invoke_2', symObjAddr: 0x9E4, symBinAddr: 0x1E198, symSize: 0x18C }
+  - { offset: 0xE1E97, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]', symObjAddr: 0xB70, symBinAddr: 0x1E324, symSize: 0x14C }
+  - { offset: 0xE1EEA, size: 0x8, addend: 0x0, symName: '___61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke', symObjAddr: 0xCBC, symBinAddr: 0x1E470, symSize: 0x7C }
+  - { offset: 0xE1F41, size: 0x8, addend: 0x0, symName: '___61-[SmartechAppInbox getAppInboxMessage:withCompletionHandler:]_block_invoke_2', symObjAddr: 0xD38, symBinAddr: 0x1E4EC, symSize: 0xC }
+  - { offset: 0xE1FB5, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]', symObjAddr: 0xD54, symBinAddr: 0x1E4F8, symSize: 0x2F4 }
+  - { offset: 0xE2043, size: 0x8, addend: 0x0, symName: '___71-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]_block_invoke', symObjAddr: 0x1048, symBinAddr: 0x1E7EC, symSize: 0xDC }
+  - { offset: 0xE20BA, size: 0x8, addend: 0x0, symName: '___71-[SmartechAppInbox getAppInboxMessageWithFilter:withCompletionHandler:]_block_invoke_2', symObjAddr: 0x1124, symBinAddr: 0x1E8C8, symSize: 0xB4 }
+  - { offset: 0xE2168, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxCategoryList]', symObjAddr: 0x1234, symBinAddr: 0x1E97C, symSize: 0x7C }
+  - { offset: 0xE219B, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getPullToRefreshParameter]', symObjAddr: 0x12B0, symBinAddr: 0x1E9F8, symSize: 0x14 }
+  - { offset: 0xE21D0, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getPaginationParameter]', symObjAddr: 0x12C4, symBinAddr: 0x1EA0C, symSize: 0x14 }
+  - { offset: 0xE2205, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppLaunchParameterInContext:]', symObjAddr: 0x12D8, symBinAddr: 0x1EA20, symSize: 0x88 }
+  - { offset: 0xE225C, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox updateTimestampInFilter:withContext:]', symObjAddr: 0x1360, symBinAddr: 0x1EAA8, symSize: 0xE0 }
+  - { offset: 0xE22CF, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageWithCategory:]', symObjAddr: 0x1440, symBinAddr: 0x1EB88, symSize: 0xAC }
+  - { offset: 0xE2312, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsViewed:]', symObjAddr: 0x14EC, symBinAddr: 0x1EC34, symSize: 0x114 }
+  - { offset: 0xE23AA, size: 0x8, addend: 0x0, symName: '___40-[SmartechAppInbox markMessageAsViewed:]_block_invoke', symObjAddr: 0x1600, symBinAddr: 0x1ED48, symSize: 0x70 }
+  - { offset: 0xE2405, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]', symObjAddr: 0x1670, symBinAddr: 0x1EDB8, symSize: 0xEC }
+  - { offset: 0xE2465, size: 0x8, addend: 0x0, symName: '___65-[SmartechAppInbox markMessageAsDismissed:withCompletionHandler:]_block_invoke', symObjAddr: 0x175C, symBinAddr: 0x1EEA4, symSize: 0xA4 }
+  - { offset: 0xE24E2, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsClicked:withDeeplink:]', symObjAddr: 0x1800, symBinAddr: 0x1EF48, symSize: 0x8 }
+  - { offset: 0xE2532, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]', symObjAddr: 0x1808, symBinAddr: 0x1EF50, symSize: 0x1BC }
+  - { offset: 0xE25A7, size: 0x8, addend: 0x0, symName: '___75-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]_block_invoke', symObjAddr: 0x19C4, symBinAddr: 0x1F10C, symSize: 0xB4 }
+  - { offset: 0xE2607, size: 0x8, addend: 0x0, symName: '___75-[SmartechAppInbox markMessageAsClicked:withDeeplink:shouldHandleDeeplink:]_block_invoke_2', symObjAddr: 0x1A78, symBinAddr: 0x1F1C0, symSize: 0xA4 }
+  - { offset: 0xE2674, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessages:]', symObjAddr: 0x1B1C, symBinAddr: 0x1F264, symSize: 0x84 }
+  - { offset: 0xE26B9, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getAppInboxMessageCount:]', symObjAddr: 0x1BA0, symBinAddr: 0x1F2E8, symSize: 0x7C }
+  - { offset: 0xE26FE, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getInboxMessageById:]', symObjAddr: 0x1C1C, symBinAddr: 0x1F364, symSize: 0x98 }
+  - { offset: 0xE2743, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox createFilterWithDirection:useFirstRecord:]', symObjAddr: 0x1CB4, symBinAddr: 0x1F3FC, symSize: 0xF4 }
+  - { offset: 0xE27AE, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox createFilterWithDirection:timestamp:]', symObjAddr: 0x1DA8, symBinAddr: 0x1F4F0, symSize: 0x80 }
+  - { offset: 0xE2815, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getFirstInboxMessageInContext:]', symObjAddr: 0x1E28, symBinAddr: 0x1F570, symSize: 0xC }
+  - { offset: 0xE2858, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getLastInboxMessageInContext:]', symObjAddr: 0x1E34, symBinAddr: 0x1F57C, symSize: 0xC }
+  - { offset: 0xE289B, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox getTimestampFromMessage:]', symObjAddr: 0x1E40, symBinAddr: 0x1F588, symSize: 0x38 }
+  - { offset: 0xE28E0, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox deleteExpiredMessagesMediaInContext:]', symObjAddr: 0x1E78, symBinAddr: 0x1F5C0, symSize: 0x338 }
+  - { offset: 0xE2999, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox isClientIdPanelKeyAvailable]', symObjAddr: 0x21B0, symBinAddr: 0x1F8F8, symSize: 0x48 }
+  - { offset: 0xE29DE, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox isAppInboxEnabled]', symObjAddr: 0x21F8, symBinAddr: 0x1F940, symSize: 0x8 }
+  - { offset: 0xE2A15, size: 0x8, addend: 0x0, symName: '-[SmartechAppInbox setIsAppInboxEnabled:]', symObjAddr: 0x2200, symBinAddr: 0x1F948, symSize: 0x8 }
+  - { offset: 0xE3613, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x1F950, symSize: 0xD0 }
+  - { offset: 0xE37EF, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x1F950, symSize: 0xD0 }
+  - { offset: 0xE3822, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell configureCellWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0xD0, symBinAddr: 0x1FA20, symSize: 0xF0 }
+  - { offset: 0xE3885, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x1C0, symBinAddr: 0x1FB10, symSize: 0x288 }
+  - { offset: 0xE3920, size: 0x8, addend: 0x0, symName: '___81-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x448, symBinAddr: 0x1FD98, symSize: 0xF0 }
+  - { offset: 0xE39D2, size: 0x8, addend: 0x0, symName: '___81-[SMTVideoCell setVideoViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2', symObjAddr: 0x538, symBinAddr: 0x1FE88, symSize: 0x200 }
+  - { offset: 0xE3A58, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setupPlayerWithMediaURLPath:]', symObjAddr: 0x808, symBinAddr: 0x20088, symSize: 0xF4 }
+  - { offset: 0xE3AAB, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell play]', symObjAddr: 0x8FC, symBinAddr: 0x2017C, symSize: 0x90 }
+  - { offset: 0xE3ADE, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell pause]', symObjAddr: 0x98C, symBinAddr: 0x2020C, symSize: 0x60 }
+  - { offset: 0xE3B11, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell videoContainerView]', symObjAddr: 0x9EC, symBinAddr: 0x2026C, symSize: 0x20 }
+  - { offset: 0xE3B48, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setVideoContainerView:]', symObjAddr: 0xA0C, symBinAddr: 0x2028C, symSize: 0x14 }
+  - { offset: 0xE3B89, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell placeholderImageView]', symObjAddr: 0xA20, symBinAddr: 0x202A0, symSize: 0x20 }
+  - { offset: 0xE3BC0, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setPlaceholderImageView:]', symObjAddr: 0xA40, symBinAddr: 0x202C0, symSize: 0x14 }
+  - { offset: 0xE3C01, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell playerView]', symObjAddr: 0xA54, symBinAddr: 0x202D4, symSize: 0x10 }
+  - { offset: 0xE3C38, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell setPlayerView:]', symObjAddr: 0xA64, symBinAddr: 0x202E4, symSize: 0x14 }
+  - { offset: 0xE3C79, size: 0x8, addend: 0x0, symName: '-[SMTVideoCell .cxx_destruct]', symObjAddr: 0xA78, symBinAddr: 0x202F8, symSize: 0x4C }
+  - { offset: 0xE41A5, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x20344, symSize: 0x5C }
+  - { offset: 0xE41E6, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0x20344, symSize: 0x5C }
+  - { offset: 0xE4229, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView initWithCoder:]', symObjAddr: 0x5C, symBinAddr: 0x203A0, symSize: 0x50 }
+  - { offset: 0xE4270, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView drawRect:]', symObjAddr: 0xAC, symBinAddr: 0x203F0, symSize: 0x4 }
+  - { offset: 0xE42AD, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView prepareForInterfaceBuilder]', symObjAddr: 0xB0, symBinAddr: 0x203F4, symSize: 0x4 }
+  - { offset: 0xE42DE, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView customInit]', symObjAddr: 0xB4, symBinAddr: 0x203F8, symSize: 0x58 }
+  - { offset: 0xE4311, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView cornerRadious]', symObjAddr: 0x10C, symBinAddr: 0x20450, symSize: 0x10 }
+  - { offset: 0xE4346, size: 0x8, addend: 0x0, symName: '-[SMTRoundedView setCornerRadious:]', symObjAddr: 0x11C, symBinAddr: 0x20460, symSize: 0x10 }
+  - { offset: 0xE4406, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x20470, symSize: 0x30 }
+  - { offset: 0xE4419, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x20470, symSize: 0x30 }
+  - { offset: 0xE4443, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xC770, symBinAddr: 0x55EE8, symSize: 0x0 }
+  - { offset: 0xE4459, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xC778, symBinAddr: 0x55EF0, symSize: 0x0 }
+  - { offset: 0xE453D, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance].cold.1', symObjAddr: 0x458, symBinAddr: 0x28C38, symSize: 0x14 }
+  - { offset: 0xE4559, size: 0x8, addend: 0x0, symName: '+[SMTAppInboxSmartechAdapter sharedInstance].cold.1', symObjAddr: 0x458, symBinAddr: 0x28C38, symSize: 0x14 }
+  - { offset: 0xE456B, size: 0x8, addend: 0x0, symName: '___44+[SMTAppInboxSmartechAdapter sharedInstance]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x204A0, symSize: 0x30 }
+  - { offset: 0xE4592, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter initAppInboxSDKWithSettings:withDelegate:]', symObjAddr: 0x60, symBinAddr: 0x204D0, symSize: 0x184 }
+  - { offset: 0xE4600, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter appInboxHasBeenDisabled]', symObjAddr: 0x1E4, symBinAddr: 0x20654, symSize: 0xA8 }
+  - { offset: 0xE4633, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter trackEventWithID:andPayload:withDeeplink:]', symObjAddr: 0x28C, symBinAddr: 0x206FC, symSize: 0x138 }
+  - { offset: 0xE46A6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter handleDeeplinkURLString:payload:]', symObjAddr: 0x3C4, symBinAddr: 0x20834, symSize: 0x74 }
+  - { offset: 0xE46F9, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter smartechAdapter]', symObjAddr: 0x438, symBinAddr: 0x208A8, symSize: 0x8 }
+  - { offset: 0xE4730, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter setSmartechAdapter:]', symObjAddr: 0x440, symBinAddr: 0x208B0, symSize: 0xC }
+  - { offset: 0xE4771, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxSmartechAdapter .cxx_destruct]', symObjAddr: 0x44C, symBinAddr: 0x208BC, symSize: 0xC }
+  - { offset: 0xE4B3C, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest initWithFilter:]', symObjAddr: 0x0, symBinAddr: 0x208C8, symSize: 0x2C }
+  - { offset: 0xE4B5B, size: 0x8, addend: 0x0, symName: _kSMTAIAppInboxAPIVersion, symObjAddr: 0x3A8, symBinAddr: 0x44DF8, symSize: 0x0 }
+  - { offset: 0xE4C3B, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest initWithFilter:]', symObjAddr: 0x0, symBinAddr: 0x208C8, symSize: 0x2C }
+  - { offset: 0xE4C82, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest endpoint]', symObjAddr: 0x2C, symBinAddr: 0x208F4, symSize: 0x10 }
+  - { offset: 0xE4CB5, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest URLParameters]', symObjAddr: 0x3C, symBinAddr: 0x20904, symSize: 0x248 }
+  - { offset: 0xE4D1C, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest bodyParameters]', symObjAddr: 0x284, symBinAddr: 0x20B4C, symSize: 0x8 }
+  - { offset: 0xE4D4F, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest method]', symObjAddr: 0x28C, symBinAddr: 0x20B54, symSize: 0x8 }
+  - { offset: 0xE4D82, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest getOSName]', symObjAddr: 0x294, symBinAddr: 0x20B5C, symSize: 0x6C }
+  - { offset: 0xE4DB5, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest filter]', symObjAddr: 0x300, symBinAddr: 0x20BC8, symSize: 0x10 }
+  - { offset: 0xE4DEC, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest setFilter:]', symObjAddr: 0x310, symBinAddr: 0x20BD8, symSize: 0x14 }
+  - { offset: 0xE4E2D, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest userIdentity]', symObjAddr: 0x324, symBinAddr: 0x20BEC, symSize: 0x10 }
+  - { offset: 0xE4E64, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest setUserIdentity:]', symObjAddr: 0x334, symBinAddr: 0x20BFC, symSize: 0xC }
+  - { offset: 0xE4EA3, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxRequest .cxx_destruct]', symObjAddr: 0x340, symBinAddr: 0x20C08, symSize: 0x40 }
+  - { offset: 0xE4F81, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withCompletion:]', symObjAddr: 0x0, symBinAddr: 0x20C48, symSize: 0xC }
+  - { offset: 0xE4FAA, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withCompletion:]', symObjAddr: 0x0, symBinAddr: 0x20C48, symSize: 0xC }
+  - { offset: 0xE4FF9, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]', symObjAddr: 0xC, symBinAddr: 0x20C54, symSize: 0x228 }
+  - { offset: 0xE508F, size: 0x8, addend: 0x0, symName: '___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke', symObjAddr: 0x234, symBinAddr: 0x20E7C, symSize: 0x14C }
+  - { offset: 0xE511A, size: 0x8, addend: 0x0, symName: '___87+[SMTAIMediaDownloader downloadAndSaveMediaFromURLString:withDownloadQueue:completion:]_block_invoke_2', symObjAddr: 0x380, symBinAddr: 0x20FC8, symSize: 0xC }
+  - { offset: 0xE516F, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader savetheMediaFileWithURL:location:andCompletion:]', symObjAddr: 0x400, symBinAddr: 0x20FD4, symSize: 0x3A0 }
+  - { offset: 0xE5264, size: 0x8, addend: 0x0, symName: '+[SMTAIMediaDownloader removeQueryParametersFromUrl:]', symObjAddr: 0x7A0, symBinAddr: 0x21374, symSize: 0xE0 }
+  - { offset: 0xE5508, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation initWithFilter:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21454, symSize: 0x134 }
+  - { offset: 0xE56A4, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation initWithFilter:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21454, symSize: 0x134 }
+  - { offset: 0xE56FB, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation handleSuccess:]', symObjAddr: 0x134, symBinAddr: 0x21588, symSize: 0x84 }
+  - { offset: 0xE574A, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation processAppInboxResponse:]', symObjAddr: 0x1B8, symBinAddr: 0x2160C, symSize: 0x28C }
+  - { offset: 0xE5827, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation handleFailure:]', symObjAddr: 0x444, symBinAddr: 0x21898, symSize: 0x58 }
+  - { offset: 0xE5876, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation start]', symObjAddr: 0x49C, symBinAddr: 0x218F0, symSize: 0xE0 }
+  - { offset: 0xE58A9, size: 0x8, addend: 0x0, symName: '___31-[SMTAIAppInboxOperation start]_block_invoke', symObjAddr: 0x57C, symBinAddr: 0x219D0, symSize: 0x2C }
+  - { offset: 0xE58F8, size: 0x8, addend: 0x0, symName: '___31-[SMTAIAppInboxOperation start]_block_invoke.11', symObjAddr: 0x5B8, symBinAddr: 0x219FC, symSize: 0x2C }
+  - { offset: 0xE5947, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation completion]', symObjAddr: 0x5E4, symBinAddr: 0x21A28, symSize: 0x10 }
+  - { offset: 0xE597E, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setCompletion:]', symObjAddr: 0x5F4, symBinAddr: 0x21A38, symSize: 0xC }
+  - { offset: 0xE59BD, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation request]', symObjAddr: 0x600, symBinAddr: 0x21A44, symSize: 0x10 }
+  - { offset: 0xE59F4, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setRequest:]', symObjAddr: 0x610, symBinAddr: 0x21A54, symSize: 0x14 }
+  - { offset: 0xE5A35, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation identity]', symObjAddr: 0x624, symBinAddr: 0x21A68, symSize: 0x10 }
+  - { offset: 0xE5A6C, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation setIdentity:]', symObjAddr: 0x634, symBinAddr: 0x21A78, symSize: 0x14 }
+  - { offset: 0xE5AAD, size: 0x8, addend: 0x0, symName: '-[SMTAIAppInboxOperation .cxx_destruct]', symObjAddr: 0x648, symBinAddr: 0x21A8C, symSize: 0x54 }
+  - { offset: 0xE5F34, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation initWithURLString:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21AE0, symSize: 0xA8 }
+  - { offset: 0xE6055, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation initWithURLString:andCompletion:]', symObjAddr: 0x0, symBinAddr: 0x21AE0, symSize: 0xA8 }
+  - { offset: 0xE60AC, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation handleSuccess:]', symObjAddr: 0xA8, symBinAddr: 0x21B88, symSize: 0x58 }
+  - { offset: 0xE60FB, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation handleFailure:]', symObjAddr: 0x100, symBinAddr: 0x21BE0, symSize: 0x58 }
+  - { offset: 0xE614A, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation start]', symObjAddr: 0x158, symBinAddr: 0x21C38, symSize: 0x108 }
+  - { offset: 0xE617D, size: 0x8, addend: 0x0, symName: '___28-[SMTAIMediaOperation start]_block_invoke', symObjAddr: 0x260, symBinAddr: 0x21D40, symSize: 0x2C }
+  - { offset: 0xE61CC, size: 0x8, addend: 0x0, symName: '___28-[SMTAIMediaOperation start]_block_invoke.4', symObjAddr: 0x29C, symBinAddr: 0x21D6C, symSize: 0x2C }
+  - { offset: 0xE621B, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation completion]', symObjAddr: 0x2C8, symBinAddr: 0x21D98, symSize: 0x10 }
+  - { offset: 0xE6252, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation setCompletion:]', symObjAddr: 0x2D8, symBinAddr: 0x21DA8, symSize: 0xC }
+  - { offset: 0xE6291, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation URLString]', symObjAddr: 0x2E4, symBinAddr: 0x21DB4, symSize: 0x10 }
+  - { offset: 0xE62C8, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation setURLString:]', symObjAddr: 0x2F4, symBinAddr: 0x21DC4, symSize: 0xC }
+  - { offset: 0xE6307, size: 0x8, addend: 0x0, symName: '-[SMTAIMediaOperation .cxx_destruct]', symObjAddr: 0x300, symBinAddr: 0x21DD0, symSize: 0x40 }
+  - { offset: 0xE64CD, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFData:]', symObjAddr: 0x0, symBinAddr: 0x21E10, symSize: 0x1C }
+  - { offset: 0xE64EF, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFData:]', symObjAddr: 0x0, symBinAddr: 0x21E10, symSize: 0x1C }
+  - { offset: 0xE6565, size: 0x8, addend: 0x0, symName: _animatedImageWithAnimatedGIFReleasingImageSource, symObjAddr: 0x1C, symBinAddr: 0x21E2C, symSize: 0x44 }
+  - { offset: 0xE65CB, size: 0x8, addend: 0x0, symName: _animatedImageWithAnimatedGIFImageSource, symObjAddr: 0x7C, symBinAddr: 0x21E8C, symSize: 0x264 }
+  - { offset: 0xE682C, size: 0x8, addend: 0x0, symName: '+[SMTGifImage animatedImageWithAnimatedGIFURL:]', symObjAddr: 0x60, symBinAddr: 0x21E70, symSize: 0x1C }
+  - { offset: 0xE6A59, size: 0x8, addend: 0x0, symName: _frameArray, symObjAddr: 0x2E0, symBinAddr: 0x220F0, symSize: 0x1B0 }
+  - { offset: 0xE6D25, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]', symObjAddr: 0x0, symBinAddr: 0x222A0, symSize: 0xBC }
+  - { offset: 0xE6D82, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]', symObjAddr: 0x0, symBinAddr: 0x222A0, symSize: 0xBC }
+  - { offset: 0xE6E0B, size: 0x8, addend: 0x0, symName: '___57-[SMTPlayerView setupPlayerOnSuperView:withMediaURLPath:]_block_invoke', symObjAddr: 0xBC, symBinAddr: 0x2235C, symSize: 0x308 }
+  - { offset: 0xE6EA0, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView play]', symObjAddr: 0x424, symBinAddr: 0x22664, symSize: 0x3C }
+  - { offset: 0xE6ED3, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView pause]', symObjAddr: 0x460, symBinAddr: 0x226A0, symSize: 0x80 }
+  - { offset: 0xE6F06, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView sliderAction:]', symObjAddr: 0x4E0, symBinAddr: 0x22720, symSize: 0x118 }
+  - { offset: 0xE6F94, size: 0x8, addend: 0x0, symName: '___30-[SMTPlayerView sliderAction:]_block_invoke', symObjAddr: 0x5F8, symBinAddr: 0x22838, symSize: 0x14 }
+  - { offset: 0xE6FD5, size: 0x8, addend: 0x0, symName: '___30-[SMTPlayerView sliderAction:]_block_invoke_2', symObjAddr: 0x60C, symBinAddr: 0x2284C, symSize: 0x4 }
+  - { offset: 0xE6FFC, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView addPlayerObserver]', symObjAddr: 0x610, symBinAddr: 0x22850, symSize: 0xA8 }
+  - { offset: 0xE702F, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView removePlayerObserver]', symObjAddr: 0x6B8, symBinAddr: 0x228F8, symSize: 0xA4 }
+  - { offset: 0xE707D, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView playerItemDidReachEnd:]', symObjAddr: 0x75C, symBinAddr: 0x2299C, symSize: 0xC0 }
+  - { offset: 0xE70EF, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView player]', symObjAddr: 0x81C, symBinAddr: 0x22A5C, symSize: 0x10 }
+  - { offset: 0xE7126, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setPlayer:]', symObjAddr: 0x82C, symBinAddr: 0x22A6C, symSize: 0x14 }
+  - { offset: 0xE7167, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView playerLayer]', symObjAddr: 0x840, symBinAddr: 0x22A80, symSize: 0x10 }
+  - { offset: 0xE719E, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView setPlayerLayer:]', symObjAddr: 0x850, symBinAddr: 0x22A90, symSize: 0x14 }
+  - { offset: 0xE71DF, size: 0x8, addend: 0x0, symName: '-[SMTPlayerView .cxx_destruct]', symObjAddr: 0x864, symBinAddr: 0x22AA4, symSize: 0x40 }
+  - { offset: 0xE7448, size: 0x8, addend: 0x0, symName: '+[SMTAIJSONParameterEncoder encode:params:]', symObjAddr: 0x0, symBinAddr: 0x22AE4, symSize: 0xB4 }
+  - { offset: 0xE7456, size: 0x8, addend: 0x0, symName: '+[SMTAIJSONParameterEncoder encode:params:]', symObjAddr: 0x0, symBinAddr: 0x22AE4, symSize: 0xB4 }
+  - { offset: 0xE7541, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation init]', symObjAddr: 0x0, symBinAddr: 0x22B98, symSize: 0xA4 }
+  - { offset: 0xE75A0, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation init]', symObjAddr: 0x0, symBinAddr: 0x22B98, symSize: 0xA4 }
+  - { offset: 0xE75D7, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation cancel]', symObjAddr: 0xA4, symBinAddr: 0x22C3C, symSize: 0x5C }
+  - { offset: 0xE760A, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation service]', symObjAddr: 0x100, symBinAddr: 0x22C98, symSize: 0x10 }
+  - { offset: 0xE7641, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation setService:]', symObjAddr: 0x110, symBinAddr: 0x22CA8, symSize: 0x14 }
+  - { offset: 0xE7682, size: 0x8, addend: 0x0, symName: '-[SMTAIServiceOperation .cxx_destruct]', symObjAddr: 0x124, symBinAddr: 0x22CBC, symSize: 0x14 }
+  - { offset: 0xE7729, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x22CD0, symSize: 0x30 }
+  - { offset: 0xE773C, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x22CD0, symSize: 0x30 }
+  - { offset: 0xE7766, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xA6E0, symBinAddr: 0x55EF8, symSize: 0x0 }
+  - { offset: 0xE777C, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xA6E8, symBinAddr: 0x55F00, symSize: 0x0 }
+  - { offset: 0xE783C, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance].cold.1', symObjAddr: 0x508, symBinAddr: 0x28C4C, symSize: 0x14 }
+  - { offset: 0xE7858, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferences sharedInstance].cold.1', symObjAddr: 0x508, symBinAddr: 0x28C4C, symSize: 0x14 }
+  - { offset: 0xE786A, size: 0x8, addend: 0x0, symName: '___34+[SMTAIPreferences sharedInstance]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x22D00, symSize: 0x30 }
+  - { offset: 0xE7891, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setSuitName:]', symObjAddr: 0x60, symBinAddr: 0x22D30, symSize: 0x104 }
+  - { offset: 0xE78D4, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences sharedUserDefault]', symObjAddr: 0x164, symBinAddr: 0x22E34, symSize: 0x4C }
+  - { offset: 0xE790B, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getCustomObjectForKey:]', symObjAddr: 0x1B0, symBinAddr: 0x22E80, symSize: 0xA0 }
+  - { offset: 0xE7972, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setCustomObject:forKey:]', symObjAddr: 0x250, symBinAddr: 0x22F20, symSize: 0xB0 }
+  - { offset: 0xE79E5, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getStringForKey:]', symObjAddr: 0x300, symBinAddr: 0x22FD0, symSize: 0xAC }
+  - { offset: 0xE7A4C, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences putString:forKey:]', symObjAddr: 0x3AC, symBinAddr: 0x2307C, symSize: 0x88 }
+  - { offset: 0xE7AAF, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getPreferenceKey:]', symObjAddr: 0x434, symBinAddr: 0x23104, symSize: 0x38 }
+  - { offset: 0xE7AF2, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences getObjectForKey:]', symObjAddr: 0x46C, symBinAddr: 0x2313C, symSize: 0x84 }
+  - { offset: 0xE7B59, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences setSharedUserDefault:]', symObjAddr: 0x4F0, symBinAddr: 0x231C0, symSize: 0xC }
+  - { offset: 0xE7B9A, size: 0x8, addend: 0x0, symName: '-[SMTAIPreferences .cxx_destruct]', symObjAddr: 0x4FC, symBinAddr: 0x231CC, symSize: 0xC }
+  - { offset: 0xE7CD2, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter init]', symObjAddr: 0x0, symBinAddr: 0x231D8, symSize: 0x64 }
+  - { offset: 0xE7D91, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter init]', symObjAddr: 0x0, symBinAddr: 0x231D8, symSize: 0x64 }
+  - { offset: 0xE7DC8, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter getFilterDictionary]', symObjAddr: 0x64, symBinAddr: 0x2323C, symSize: 0x128 }
+  - { offset: 0xE7E0F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setDirection:]', symObjAddr: 0x18C, symBinAddr: 0x23364, symSize: 0xA8 }
+  - { offset: 0xE7E52, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setDirectionType:]', symObjAddr: 0x234, symBinAddr: 0x2340C, symSize: 0x28 }
+  - { offset: 0xE7E93, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter direction]', symObjAddr: 0x25C, symBinAddr: 0x23434, symSize: 0x8 }
+  - { offset: 0xE7ECA, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter directionType]', symObjAddr: 0x264, symBinAddr: 0x2343C, symSize: 0x8 }
+  - { offset: 0xE7F01, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter limit]', symObjAddr: 0x26C, symBinAddr: 0x23444, symSize: 0x8 }
+  - { offset: 0xE7F38, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setLimit:]', symObjAddr: 0x274, symBinAddr: 0x2344C, symSize: 0x8 }
+  - { offset: 0xE7F75, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter timestamp]', symObjAddr: 0x27C, symBinAddr: 0x23454, symSize: 0x8 }
+  - { offset: 0xE7FAC, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter setTimestamp:]', symObjAddr: 0x284, symBinAddr: 0x2345C, symSize: 0x8 }
+  - { offset: 0xE7FEB, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxFilter .cxx_destruct]', symObjAddr: 0x28C, symBinAddr: 0x23464, symSize: 0x30 }
+  - { offset: 0xE80C7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxMessages]', symObjAddr: 0x0, symBinAddr: 0x23494, symSize: 0x8 }
+  - { offset: 0xE813E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxMessages]', symObjAddr: 0x0, symBinAddr: 0x23494, symSize: 0x8 }
+  - { offset: 0xE8175, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setInboxMessages:]', symObjAddr: 0x8, symBinAddr: 0x2349C, symSize: 0xC }
+  - { offset: 0xE81B6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData userIdentity]', symObjAddr: 0x14, symBinAddr: 0x234A8, symSize: 0x8 }
+  - { offset: 0xE81ED, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setUserIdentity:]', symObjAddr: 0x1C, symBinAddr: 0x234B0, symSize: 0xC }
+  - { offset: 0xE822E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData inboxDeleted]', symObjAddr: 0x28, symBinAddr: 0x234BC, symSize: 0x8 }
+  - { offset: 0xE8265, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData setInboxDeleted:]', symObjAddr: 0x30, symBinAddr: 0x234C4, symSize: 0xC }
+  - { offset: 0xE82A6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxData .cxx_destruct]', symObjAddr: 0x3C, symBinAddr: 0x234D0, symSize: 0x3C }
+  - { offset: 0xE8324, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURLWithAppGroup:]', symObjAddr: 0x0, symBinAddr: 0x2350C, symSize: 0x70 }
+  - { offset: 0xE8356, size: 0x8, addend: 0x0, symName: __appGroup, symObjAddr: 0xC108, symBinAddr: 0x55F08, symSize: 0x0 }
+  - { offset: 0xE8367, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURLWithAppGroup:]', symObjAddr: 0x0, symBinAddr: 0x2350C, symSize: 0x70 }
+  - { offset: 0xE83AE, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appInboxURL]', symObjAddr: 0x70, symBinAddr: 0x2357C, symSize: 0xC4 }
+  - { offset: 0xE8405, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility appGroupURL]', symObjAddr: 0x134, symBinAddr: 0x23640, symSize: 0xA8 }
+  - { offset: 0xE844C, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility saveInboxAttachment:]', symObjAddr: 0x1DC, symBinAddr: 0x236E8, symSize: 0x1B8 }
+  - { offset: 0xE84F2, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility saveInboxAttachment:forTrid:]', symObjAddr: 0x394, symBinAddr: 0x238A0, symSize: 0x278 }
+  - { offset: 0xE85D4, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility fullURLForRelativeMediaPath:]', symObjAddr: 0x60C, symBinAddr: 0x23B18, symSize: 0x9C }
+  - { offset: 0xE862B, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility removeInboxAttachments]', symObjAddr: 0x6A8, symBinAddr: 0x23BB4, symSize: 0x74 }
+  - { offset: 0xE8662, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility removeItemAtPath:]', symObjAddr: 0x71C, symBinAddr: 0x23C28, symSize: 0xCC }
+  - { offset: 0xE86C5, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility deleteMediaFoldersForTrids:]', symObjAddr: 0x7E8, symBinAddr: 0x23CF4, symSize: 0x394 }
+  - { offset: 0xE87A9, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility applicationDocumentsDirectory]', symObjAddr: 0xB7C, symBinAddr: 0x24088, symSize: 0x68 }
+  - { offset: 0xE8832, size: 0x8, addend: 0x0, symName: '+[SMTAIFileUtility createDirectory:atFilePath:]', symObjAddr: 0xBE4, symBinAddr: 0x240F0, symSize: 0x170 }
+  - { offset: 0xE8945, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService initWithConfig:]', symObjAddr: 0x0, symBinAddr: 0x24260, symSize: 0x34 }
+  - { offset: 0xE8993, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService initWithConfig:]', symObjAddr: 0x0, symBinAddr: 0x24260, symSize: 0x34 }
+  - { offset: 0xE89D6, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService makeDownloadRequestFor:success:failure:]', symObjAddr: 0x34, symBinAddr: 0x24294, symSize: 0x294 }
+  - { offset: 0xE8A87, size: 0x8, addend: 0x0, symName: '___62-[SMTAIBackendService makeDownloadRequestFor:success:failure:]_block_invoke', symObjAddr: 0x2C8, symBinAddr: 0x24528, symSize: 0xC }
+  - { offset: 0xE8ADC, size: 0x8, addend: 0x0, symName: '___62-[SMTAIBackendService makeDownloadRequestFor:success:failure:]_block_invoke.1', symObjAddr: 0x2EC, symBinAddr: 0x24534, symSize: 0x10 }
+  - { offset: 0xE8B4B, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService cancel]', symObjAddr: 0x2FC, symBinAddr: 0x24544, symSize: 0x30 }
+  - { offset: 0xE8B7E, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService service]', symObjAddr: 0x32C, symBinAddr: 0x24574, symSize: 0x8 }
+  - { offset: 0xE8BB5, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService setService:]', symObjAddr: 0x334, symBinAddr: 0x2457C, symSize: 0xC }
+  - { offset: 0xE8BF6, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendService .cxx_destruct]', symObjAddr: 0x340, symBinAddr: 0x24588, symSize: 0xC }
+  - { offset: 0xE8EA6, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage isMediaDownloadInProgressForKey:]', symObjAddr: 0x0, symBinAddr: 0x24594, symSize: 0x8C }
+  - { offset: 0xE91D8, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage isMediaDownloadInProgressForKey:]', symObjAddr: 0x0, symBinAddr: 0x24594, symSize: 0x8C }
+  - { offset: 0xE922F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage setMediaDownloadInProgressValue:forKey:]', symObjAddr: 0x8C, symBinAddr: 0x24620, symSize: 0xD4 }
+  - { offset: 0xE9282, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage updatePayloadWithMediaURLPath:]', symObjAddr: 0x160, symBinAddr: 0x246F4, symSize: 0x190 }
+  - { offset: 0xE92FB, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxMessage updatePayloadWithMediaURLPath:forCarouselAtIndex:]', symObjAddr: 0x2F0, symBinAddr: 0x24884, symSize: 0x1C8 }
+  - { offset: 0xE9401, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility weekdayStringFromDay:]', symObjAddr: 0x0, symBinAddr: 0x24A4C, symSize: 0x28 }
+  - { offset: 0xE9463, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility weekdayStringFromDay:]', symObjAddr: 0x0, symBinAddr: 0x24A4C, symSize: 0x28 }
+  - { offset: 0xE94A4, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility timeIntervalSinceDate:]', symObjAddr: 0x28, symBinAddr: 0x24A74, symSize: 0xA4 }
+  - { offset: 0xE9527, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility utcTimeIntervalSinceDate:]', symObjAddr: 0xCC, symBinAddr: 0x24B18, symSize: 0xA4 }
+  - { offset: 0xE95AA, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateComponentsFromDate:]', symObjAddr: 0x170, symBinAddr: 0x24BBC, symSize: 0x7C }
+  - { offset: 0xE95FD, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateStringFromDate:]', symObjAddr: 0x1EC, symBinAddr: 0x24C38, symSize: 0xB0 }
+  - { offset: 0xE9650, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateFromString:]', symObjAddr: 0x29C, symBinAddr: 0x24CE8, symSize: 0xB0 }
+  - { offset: 0xE96A3, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility dateFromNonUTCString:]', symObjAddr: 0x34C, symBinAddr: 0x24D98, symSize: 0xB0 }
+  - { offset: 0xE96F6, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfDate:isBetweenDate:andDate:]', symObjAddr: 0x3FC, symBinAddr: 0x24E48, symSize: 0xA0 }
+  - { offset: 0xE9769, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfTimeOfDate:isBetweenTime:andTime:]', symObjAddr: 0x49C, symBinAddr: 0x24EE8, symSize: 0x1F0 }
+  - { offset: 0xE986C, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility checkIfDate:hasPassedInterval:]', symObjAddr: 0x68C, symBinAddr: 0x250D8, symSize: 0x88 }
+  - { offset: 0xE98DE, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility timeIntervalStringFromDate:]', symObjAddr: 0x714, symBinAddr: 0x25160, symSize: 0x174 }
+  - { offset: 0xE9991, size: 0x8, addend: 0x0, symName: '+[SMTAIDateUtility getGMTTime]', symObjAddr: 0x888, symBinAddr: 0x252D4, symSize: 0x84 }
+  - { offset: 0xE9A70, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getSmartechAppGroup]', symObjAddr: 0x0, symBinAddr: 0x25358, symSize: 0xA0 }
+  - { offset: 0xE9A83, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getSmartechAppGroup]', symObjAddr: 0x0, symBinAddr: 0x25358, symSize: 0xA0 }
+  - { offset: 0xE9AD6, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager setAppInboxClickLink:]', symObjAddr: 0xA0, symBinAddr: 0x253F8, symSize: 0x60 }
+  - { offset: 0xE9B15, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxClickLink]', symObjAddr: 0x100, symBinAddr: 0x25458, symSize: 0x58 }
+  - { offset: 0xE9B48, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager setAppInboxVersion:]', symObjAddr: 0x158, symBinAddr: 0x254B0, symSize: 0x60 }
+  - { offset: 0xE9B87, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxVersion]', symObjAddr: 0x1B8, symBinAddr: 0x25510, symSize: 0x58 }
+  - { offset: 0xE9BBA, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager storeAppInboxSettings:]', symObjAddr: 0x210, symBinAddr: 0x25568, symSize: 0x60 }
+  - { offset: 0xE9BF9, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getAppInboxSettings]', symObjAddr: 0x270, symBinAddr: 0x255C8, symSize: 0x58 }
+  - { offset: 0xE9C2C, size: 0x8, addend: 0x0, symName: '+[SMTAIPreferencesManager getMediaCachingSize]', symObjAddr: 0x2C8, symBinAddr: 0x25620, symSize: 0x8 }
+  - { offset: 0xE9CD0, size: 0x8, addend: 0x0, symName: '+[SMTAIBackendConfiguration sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x25628, symSize: 0x74 }
+  - { offset: 0xE9CDE, size: 0x8, addend: 0x0, symName: '+[SMTAIBackendConfiguration sharedInstance]', symObjAddr: 0x0, symBinAddr: 0x25628, symSize: 0x74 }
+  - { offset: 0xE9D08, size: 0x8, addend: 0x0, symName: _sharedInstance.sharedInstance, symObjAddr: 0xA7B0, symBinAddr: 0x55F10, symSize: 0x0 }
+  - { offset: 0xE9D1E, size: 0x8, addend: 0x0, symName: _sharedInstance.onceToken, symObjAddr: 0xA7B8, symBinAddr: 0x55F18, symSize: 0x0 }
+  - { offset: 0xE9EA6, size: 0x8, addend: 0x0, symName: '___43+[SMTAIBackendConfiguration sharedInstance]_block_invoke', symObjAddr: 0x74, symBinAddr: 0x2569C, symSize: 0x2C }
+  - { offset: 0xE9EE5, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration init]', symObjAddr: 0xA0, symBinAddr: 0x256C8, symSize: 0x34 }
+  - { offset: 0xE9F1C, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration validateURL:forURLType:]', symObjAddr: 0xD4, symBinAddr: 0x256FC, symSize: 0xB4 }
+  - { offset: 0xE9F6B, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseInboxUrl]', symObjAddr: 0x188, symBinAddr: 0x257B0, symSize: 0x8 }
+  - { offset: 0xE9FA2, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseInboxUrl:]', symObjAddr: 0x190, symBinAddr: 0x257B8, symSize: 0x8 }
+  - { offset: 0xE9FE1, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseAppInitURL]', symObjAddr: 0x198, symBinAddr: 0x257C0, symSize: 0x8 }
+  - { offset: 0xEA018, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseAppInitURL:]', symObjAddr: 0x1A0, symBinAddr: 0x257C8, symSize: 0x8 }
+  - { offset: 0xEA057, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseTrackAppActUrl]', symObjAddr: 0x1A8, symBinAddr: 0x257D0, symSize: 0x8 }
+  - { offset: 0xEA08E, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseTrackAppActUrl:]', symObjAddr: 0x1B0, symBinAddr: 0x257D8, symSize: 0x8 }
+  - { offset: 0xEA0CD, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration basePushAmpUrl]', symObjAddr: 0x1B8, symBinAddr: 0x257E0, symSize: 0x8 }
+  - { offset: 0xEA104, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBasePushAmpUrl:]', symObjAddr: 0x1C0, symBinAddr: 0x257E8, symSize: 0x8 }
+  - { offset: 0xEA143, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration baseInAppUrl]', symObjAddr: 0x1C8, symBinAddr: 0x257F0, symSize: 0x8 }
+  - { offset: 0xEA17A, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setBaseInAppUrl:]', symObjAddr: 0x1D0, symBinAddr: 0x257F8, symSize: 0x8 }
+  - { offset: 0xEA1B9, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration listSegmentUrl]', symObjAddr: 0x1D8, symBinAddr: 0x25800, symSize: 0x8 }
+  - { offset: 0xEA1F0, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration setListSegmentUrl:]', symObjAddr: 0x1E0, symBinAddr: 0x25808, symSize: 0x8 }
+  - { offset: 0xEA22F, size: 0x8, addend: 0x0, symName: '-[SMTAIBackendConfiguration .cxx_destruct]', symObjAddr: 0x1E8, symBinAddr: 0x25810, symSize: 0x60 }
+  - { offset: 0xEA37D, size: 0x8, addend: 0x0, symName: '-[SMTGifCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x25870, symSize: 0x70 }
+  - { offset: 0xEA506, size: 0x8, addend: 0x0, symName: '-[SMTGifCell prepareForReuse]', symObjAddr: 0x0, symBinAddr: 0x25870, symSize: 0x70 }
+  - { offset: 0xEA539, size: 0x8, addend: 0x0, symName: '-[SMTGifCell configureCellWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x70, symBinAddr: 0x258E0, symSize: 0xF0 }
+  - { offset: 0xEA59C, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x160, symBinAddr: 0x259D0, symSize: 0x28C }
+  - { offset: 0xEA637, size: 0x8, addend: 0x0, symName: '___79-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x3EC, symBinAddr: 0x25C5C, symSize: 0xF0 }
+  - { offset: 0xEA6E9, size: 0x8, addend: 0x0, symName: '___79-[SMTGifCell setImageViewWithInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke_2', symObjAddr: 0x4DC, symBinAddr: 0x25D4C, symSize: 0x210 }
+  - { offset: 0xEA786, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setStaticImageFromPath:]', symObjAddr: 0x7BC, symBinAddr: 0x25F5C, symSize: 0xD8 }
+  - { offset: 0xEA7D9, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setPlayingImageFromPath:]', symObjAddr: 0x894, symBinAddr: 0x26034, symSize: 0x88 }
+  - { offset: 0xEA83C, size: 0x8, addend: 0x0, symName: '-[SMTGifCell play]', symObjAddr: 0x91C, symBinAddr: 0x260BC, symSize: 0x98 }
+  - { offset: 0xEA86F, size: 0x8, addend: 0x0, symName: '-[SMTGifCell pause]', symObjAddr: 0x9B4, symBinAddr: 0x26154, symSize: 0x68 }
+  - { offset: 0xEA8A2, size: 0x8, addend: 0x0, symName: '-[SMTGifCell animatedImageView]', symObjAddr: 0xA1C, symBinAddr: 0x261BC, symSize: 0x20 }
+  - { offset: 0xEA8D9, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setAnimatedImageView:]', symObjAddr: 0xA3C, symBinAddr: 0x261DC, symSize: 0x14 }
+  - { offset: 0xEA91A, size: 0x8, addend: 0x0, symName: '-[SMTGifCell mediaURLPath]', symObjAddr: 0xA50, symBinAddr: 0x261F0, symSize: 0x10 }
+  - { offset: 0xEA951, size: 0x8, addend: 0x0, symName: '-[SMTGifCell setMediaURLPath:]', symObjAddr: 0xA60, symBinAddr: 0x26200, symSize: 0x14 }
+  - { offset: 0xEA992, size: 0x8, addend: 0x0, symName: '-[SMTGifCell .cxx_destruct]', symObjAddr: 0xA74, symBinAddr: 0x26214, symSize: 0x3C }
+  - { offset: 0xEAEBC, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest initWithUserIdentity:andInfo:]', symObjAddr: 0x0, symBinAddr: 0x26250, symSize: 0x90 }
+  - { offset: 0xEAEFA, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest initWithUserIdentity:andInfo:]', symObjAddr: 0x0, symBinAddr: 0x26250, symSize: 0x90 }
+  - { offset: 0xEAF51, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest baseURLType]', symObjAddr: 0x90, symBinAddr: 0x262E0, symSize: 0x8 }
+  - { offset: 0xEAF84, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest endpoint]', symObjAddr: 0x98, symBinAddr: 0x262E8, symSize: 0xC }
+  - { offset: 0xEAFB7, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest URLParameters]', symObjAddr: 0xA4, symBinAddr: 0x262F4, symSize: 0x10C }
+  - { offset: 0xEAFEE, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest bodyParameters]', symObjAddr: 0x1B0, symBinAddr: 0x26400, symSize: 0xD8 }
+  - { offset: 0xEB035, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest userIdentity]', symObjAddr: 0x288, symBinAddr: 0x264D8, symSize: 0x10 }
+  - { offset: 0xEB06C, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest setUserIdentity:]', symObjAddr: 0x298, symBinAddr: 0x264E8, symSize: 0xC }
+  - { offset: 0xEB0AB, size: 0x8, addend: 0x0, symName: '-[SMTAIBaseRequest .cxx_destruct]', symObjAddr: 0x2A4, symBinAddr: 0x264F4, symSize: 0x14 }
+  - { offset: 0xEB174, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView initWithNib]', symObjAddr: 0x0, symBinAddr: 0x26508, symSize: 0xCC }
+  - { offset: 0xEB5DC, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView initWithNib]', symObjAddr: 0x0, symBinAddr: 0x26508, symSize: 0xCC }
+  - { offset: 0xEB67D, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView loadWithSuperView:]', symObjAddr: 0xCC, symBinAddr: 0x265D4, symSize: 0x20C }
+  - { offset: 0xEB6D7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView settingUpTheConstraintsOfCarouselView:onSuperView:]', symObjAddr: 0x2D8, symBinAddr: 0x267E0, symSize: 0x1B8 }
+  - { offset: 0xEB76A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView didReceiveCarouselButtonResponse:]', symObjAddr: 0x490, symBinAddr: 0x26998, symSize: 0x6C }
+  - { offset: 0xEB7AD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]', symObjAddr: 0x4FC, symBinAddr: 0x26A04, symSize: 0x2BC }
+  - { offset: 0xEB8A9, size: 0x8, addend: 0x0, symName: '___105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke', symObjAddr: 0x7B8, symBinAddr: 0x26CC0, symSize: 0x34 }
+  - { offset: 0xEB8E8, size: 0x8, addend: 0x0, symName: '___105-[SMTAppInboxCarouselView didReceiveCarouselPayload:hasInboxEvent:downloadQueue:andPlaceholderImageName:]_block_invoke.10', symObjAddr: 0x7FC, symBinAddr: 0x26CF4, symSize: 0x34 }
+  - { offset: 0xEB927, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView numberOfSectionsInCollectionView:]', symObjAddr: 0x830, symBinAddr: 0x26D28, symSize: 0x8 }
+  - { offset: 0xEB966, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:numberOfItemsInSection:]', symObjAddr: 0x838, symBinAddr: 0x26D30, symSize: 0x64 }
+  - { offset: 0xEB9B5, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:cellForItemAtIndexPath:]', symObjAddr: 0x89C, symBinAddr: 0x26D94, symSize: 0x16C }
+  - { offset: 0xEBA2C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:layout:sizeForItemAtIndexPath:]', symObjAddr: 0xA08, symBinAddr: 0x26F00, symSize: 0xC8 }
+  - { offset: 0xEBAA7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:didSelectItemAtIndexPath:]', symObjAddr: 0xAD0, symBinAddr: 0x26FC8, symSize: 0x90 }
+  - { offset: 0xEBB16, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView nextItem]', symObjAddr: 0xB60, symBinAddr: 0x27058, symSize: 0x11C }
+  - { offset: 0xEBB49, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeScrollNextItem]', symObjAddr: 0xC7C, symBinAddr: 0x27174, symSize: 0x1D4 }
+  - { offset: 0xEBBA3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitScrollNextItem]', symObjAddr: 0xE50, symBinAddr: 0x27348, symSize: 0x294 }
+  - { offset: 0xEBC34, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView previousItem]', symObjAddr: 0x10E4, symBinAddr: 0x275DC, symSize: 0x11C }
+  - { offset: 0xEBC68, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeScrollPreviousItem]', symObjAddr: 0x1200, symBinAddr: 0x276F8, symSize: 0x1BC }
+  - { offset: 0xEBCC5, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitScrollPreviousItem]', symObjAddr: 0x13BC, symBinAddr: 0x278B4, symSize: 0x27C }
+  - { offset: 0xEBD5C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView configureCarouselCell:atCarosuelIndex:]', symObjAddr: 0x1638, symBinAddr: 0x27B30, symSize: 0xE8 }
+  - { offset: 0xEBDC3, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView:layout:minimumLineSpacingForSectionAtIndex:]', symObjAddr: 0x1720, symBinAddr: 0x27C18, symSize: 0x14 }
+  - { offset: 0xEBE1E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView collectionView]', symObjAddr: 0x1734, symBinAddr: 0x27C2C, symSize: 0x20 }
+  - { offset: 0xEBE55, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setCollectionView:]', symObjAddr: 0x1754, symBinAddr: 0x27C4C, symSize: 0x14 }
+  - { offset: 0xEBE96, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView carouselImages]', symObjAddr: 0x1768, symBinAddr: 0x27C60, symSize: 0x20 }
+  - { offset: 0xEBECD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setCarouselImages:]', symObjAddr: 0x1788, symBinAddr: 0x27C80, symSize: 0x14 }
+  - { offset: 0xEBF0E, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView currentIndex]', symObjAddr: 0x179C, symBinAddr: 0x27C94, symSize: 0x10 }
+  - { offset: 0xEBF45, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView payload]', symObjAddr: 0x17AC, symBinAddr: 0x27CA4, symSize: 0x10 }
+  - { offset: 0xEBF7C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPayload:]', symObjAddr: 0x17BC, symBinAddr: 0x27CB4, symSize: 0x14 }
+  - { offset: 0xEBFBD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView appInboxEvent]', symObjAddr: 0x17D0, symBinAddr: 0x27CC8, symSize: 0x20 }
+  - { offset: 0xEBFF4, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setAppInboxEvent:]', symObjAddr: 0x17F0, symBinAddr: 0x27CE8, symSize: 0x14 }
+  - { offset: 0xEC035, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView mediaDownloadQueue]', symObjAddr: 0x1804, symBinAddr: 0x27CFC, symSize: 0x20 }
+  - { offset: 0xEC06C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setMediaDownloadQueue:]', symObjAddr: 0x1824, symBinAddr: 0x27D1C, symSize: 0x14 }
+  - { offset: 0xEC0AD, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView placeholderImageName]', symObjAddr: 0x1838, symBinAddr: 0x27D30, symSize: 0x20 }
+  - { offset: 0xEC0E4, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPlaceholderImageName:]', symObjAddr: 0x1858, symBinAddr: 0x27D50, symSize: 0x14 }
+  - { offset: 0xEC125, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView notificationType]', symObjAddr: 0x186C, symBinAddr: 0x27D64, symSize: 0x20 }
+  - { offset: 0xEC15C, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setNotificationType:]', symObjAddr: 0x188C, symBinAddr: 0x27D84, symSize: 0x14 }
+  - { offset: 0xEC19D, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView potraitIndex]', symObjAddr: 0x18A0, symBinAddr: 0x27D98, symSize: 0x10 }
+  - { offset: 0xEC1D4, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setPotraitIndex:]', symObjAddr: 0x18B0, symBinAddr: 0x27DA8, symSize: 0x10 }
+  - { offset: 0xEC211, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView landscapeIndex]', symObjAddr: 0x18C0, symBinAddr: 0x27DB8, symSize: 0x10 }
+  - { offset: 0xEC248, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setLandscapeIndex:]', symObjAddr: 0x18D0, symBinAddr: 0x27DC8, symSize: 0x10 }
+  - { offset: 0xEC285, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView dispalyCount]', symObjAddr: 0x18E0, symBinAddr: 0x27DD8, symSize: 0x10 }
+  - { offset: 0xEC2BC, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView setDispalyCount:]', symObjAddr: 0x18F0, symBinAddr: 0x27DE8, symSize: 0x10 }
+  - { offset: 0xEC2F9, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCarouselView .cxx_destruct]', symObjAddr: 0x1900, symBinAddr: 0x27DF8, symSize: 0x8C }
+  - { offset: 0xEC581, size: 0x8, addend: 0x0, symName: _SMTAIHTTPMethodString, symObjAddr: 0x0, symBinAddr: 0x27E84, symSize: 0x24 }
+  - { offset: 0xEC5B0, size: 0x8, addend: 0x0, symName: _SMTAIHTTPMethodString, symObjAddr: 0x0, symBinAddr: 0x27E84, symSize: 0x24 }
+  - { offset: 0xEC619, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x27EA8, symSize: 0x118 }
+  - { offset: 0xEC6F7, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController viewDidLoad]', symObjAddr: 0x0, symBinAddr: 0x27EA8, symSize: 0x118 }
+  - { offset: 0xEC72A, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController mapCategoryArray]', symObjAddr: 0x118, symBinAddr: 0x27FC0, symSize: 0x1F4 }
+  - { offset: 0xEC78B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController filterCategoryArray]', symObjAddr: 0x30C, symBinAddr: 0x281B4, symSize: 0xB4 }
+  - { offset: 0xEC7D2, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController btnCancelClicked:]', symObjAddr: 0x3C0, symBinAddr: 0x28268, symSize: 0xC }
+  - { offset: 0xEC80F, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController btnApplyClicked:]', symObjAddr: 0x3CC, symBinAddr: 0x28274, symSize: 0x54 }
+  - { offset: 0xEC84E, size: 0x8, addend: 0x0, symName: '___53-[SMTAppInboxCategoryViewController btnApplyClicked:]_block_invoke', symObjAddr: 0x420, symBinAddr: 0x282C8, symSize: 0x74 }
+  - { offset: 0xEC88D, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController numberOfSectionsInTableView:]', symObjAddr: 0x4A4, symBinAddr: 0x2833C, symSize: 0x8 }
+  - { offset: 0xEC8CC, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:numberOfRowsInSection:]', symObjAddr: 0x4AC, symBinAddr: 0x28344, symSize: 0x3C }
+  - { offset: 0xEC91B, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:cellForRowAtIndexPath:]', symObjAddr: 0x4E8, symBinAddr: 0x28380, symSize: 0x1A4 }
+  - { offset: 0xEC992, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController tableView:didSelectRowAtIndexPath:]', symObjAddr: 0x68C, symBinAddr: 0x28524, symSize: 0xB0 }
+  - { offset: 0xEC9F1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController bgView]', symObjAddr: 0x73C, symBinAddr: 0x285D4, symSize: 0x20 }
+  - { offset: 0xECA28, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setBgView:]', symObjAddr: 0x75C, symBinAddr: 0x285F4, symSize: 0x14 }
+  - { offset: 0xECA69, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController categoryTableView]', symObjAddr: 0x770, symBinAddr: 0x28608, symSize: 0x20 }
+  - { offset: 0xECAA0, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setCategoryTableView:]', symObjAddr: 0x790, symBinAddr: 0x28628, symSize: 0x14 }
+  - { offset: 0xECAE1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController appInboxCategoryArray]', symObjAddr: 0x7A4, symBinAddr: 0x2863C, symSize: 0x10 }
+  - { offset: 0xECB18, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setAppInboxCategoryArray:]', symObjAddr: 0x7B4, symBinAddr: 0x2864C, symSize: 0x14 }
+  - { offset: 0xECB59, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController categoryFilterDelegate]', symObjAddr: 0x7C8, symBinAddr: 0x28660, symSize: 0x20 }
+  - { offset: 0xECB90, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setCategoryFilterDelegate:]', symObjAddr: 0x7E8, symBinAddr: 0x28680, symSize: 0x14 }
+  - { offset: 0xECBD1, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController selectedCategoryArray]', symObjAddr: 0x7FC, symBinAddr: 0x28694, symSize: 0x10 }
+  - { offset: 0xECC08, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController setSelectedCategoryArray:]', symObjAddr: 0x80C, symBinAddr: 0x286A4, symSize: 0x14 }
+  - { offset: 0xECC49, size: 0x8, addend: 0x0, symName: '-[SMTAppInboxCategoryViewController .cxx_destruct]', symObjAddr: 0x820, symBinAddr: 0x286B8, symSize: 0x70 }
 ...
